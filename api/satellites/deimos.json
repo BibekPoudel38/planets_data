@@ -1,0 +1,41 @@
+{
+    "name": "Deimos",
+    "name_theory": "",
+    "description": "Deimos is the smaller and outer of the two moons of Mars. It is one of the smallest known moons in the Solar System and has a heavily cratered surface. Deimos orbits Mars at a greater distance compared to Phobos and takes over 30 hours to complete one orbit. It is thought to be a captured asteroid due to its irregular shape and composition.",
+    "body_type": "Natural satellite",
+    "wiki_link": "https://en.wikipedia.org/wiki/Deimos_(moon)",
+    "distance_from_mars": "Approximately 23,460 km on average",
+    "distance_from_nearest_star": "",
+    "radius": "6.2 km",
+    "size_compared_to_mars": "0.008 times the diameter of Mars",
+    "mass": "1.8 × 10^15 kg",
+    "density": "1.471 g/cm³",
+    "rotation_period": "Synchronous rotation; same as its orbital period (about 30.3 hours)",
+    "revolution_period": "About 1.262 days",
+    "axial_tilt": "None",
+    "max_temperature": "-4°C (25°F)",
+    "min_temperature": "-112°C (-170°F)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Phobos_colour_2008.jpg/220px-Phobos_colour_2008.jpg",
+    "gallery": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Deimos-MRO.jpg/220px-Deimos-MRO.jpg",
+            "description": "Deimos as seen by the Mars Reconnaissance Orbiter"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deimos-MRO2.jpg/220px-Deimos-MRO2.jpg",
+            "description": "Another view of Deimos captured by the Mars Reconnaissance Orbiter"
+        }
+    ],
+    "parent_solar_system": "Solar System",
+    "galaxy": "Milky Way",
+    "interesting_facts": [
+        "Deimos is the smaller and outer of the two moons of Mars.",
+        "It is one of the smallest known moons in the Solar System.",
+        "Deimos has a heavily cratered surface.",
+        "Its orbit around Mars takes over 30 hours to complete.",
+        "Deimos is thought to be a captured asteroid due to its irregular shape and composition.",
+        "It has a synchronous rotation, meaning the same side always faces Mars.",
+        "Deimos' surface temperatures range from around -4°C (25°F) to -112°C (-170°F)."
+    ],
+    "atmospheric_composition": []
+}

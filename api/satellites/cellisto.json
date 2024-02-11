@@ -1,0 +1,44 @@
+{
+    "name": "Callisto",
+    "name_theory": "",
+    "description": "Callisto is one of the four Galilean moons of Jupiter and is the second-largest moon of the planet. It is composed of roughly equal parts of rock and ice and has a heavily cratered surface, indicating little geological activity. Callisto's surface features include impact craters, multi-ring structures, and ancient ridges. It is thought to have a subsurface ocean beneath its icy crust.",
+    "body_type": "Natural satellite",
+    "wiki_link": "https://en.wikipedia.org/wiki/Callisto_(moon)",
+    "distance_from_jupiter": "Approximately 1,882,700 km on average",
+    "distance_from_nearest_star": "",
+    "radius": "2,410.3 km",
+    "size_compared_to_jupiter": "0.378 times the diameter of Jupiter",
+    "mass": "1.0759 × 10^23 kg",
+    "density": "1.834 g/cm³",
+    "rotation_period": "Synchronous rotation; same as its orbital period (about 16.69 Earth days)",
+    "revolution_period": "About 16.69 Earth days",
+    "axial_tilt": "Zero (tidally locked)",
+    "max_temperature": "-134°C (-209°F)",
+    "min_temperature": "-220°C (-364°F)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Callisto.jpg/220px-Callisto.jpg",
+    "gallery": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Callisto_crop.jpg/220px-Callisto_crop.jpg",
+            "description": "Callisto's heavily cratered surface"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/PIA02476-Callisto-Libertyhemisphere.jpg/220px-PIA02476-Callisto-Libertyhemisphere.jpg",
+            "description": "Enhanced color view of Callisto's surface"
+        }
+    ],
+    "parent_solar_system": "Jupiter's moons",
+    "galaxy": "Milky Way",
+    "interesting_facts": [
+        "Callisto is one of the four Galilean moons of Jupiter.",
+        "It is the second-largest moon of Jupiter.",
+        "Callisto is composed of roughly equal parts of rock and ice.",
+        "Its heavily cratered surface indicates little geological activity.",
+        "Surface features include impact craters, multi-ring structures, and ancient ridges.",
+        "Callisto is thought to have a subsurface ocean beneath its icy crust.",
+        "Its surface temperature can vary from about -134°C (-209°F) to -220°C (-364°F).",
+        "Callisto is tidally locked to Jupiter, meaning the same side always faces the planet.",
+        "It has a thin atmosphere composed mainly of carbon dioxide.",
+        "Callisto has been studied by spacecraft such as Voyager and Galileo, providing valuable data about its composition and surface features."
+    ],
+    "atmospheric_composition": []
+}

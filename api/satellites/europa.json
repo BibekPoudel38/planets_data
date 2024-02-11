@@ -1,0 +1,44 @@
+{
+    "name": "Europa",
+    "name_theory": "",
+    "description": "Europa is one of the four Galilean moons of Jupiter and is known for its smooth, icy surface and potential subsurface ocean. It is considered one of the most promising places to search for extraterrestrial life within our solar system due to the possibility of a liquid water ocean beneath its icy crust. Europa's surface is crisscrossed with linear fractures and ridges, indicating tectonic activity driven by tidal forces from Jupiter.",
+    "body_type": "Natural satellite",
+    "wiki_link": "https://en.wikipedia.org/wiki/Europa_(moon)",
+    "distance_from_jupiter": "Approximately 670,900 km on average",
+    "distance_from_nearest_star": "",
+    "radius": "1,560.8 km",
+    "size_compared_to_jupiter": "0.245 times the diameter of Jupiter",
+    "mass": "4.8 × 10^22 kg",
+    "density": "3.013 g/cm³",
+    "rotation_period": "Synchronous rotation; same as its orbital period (about 3.55 Earth days)",
+    "revolution_period": "About 3.55 Earth days",
+    "axial_tilt": "Zero (tidally locked)",
+    "max_temperature": "-160°C (-260°F)",
+    "min_temperature": "-220°C (-370°F)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Europa-moon-with-margins.jpg/220px-Europa-moon-with-margins.jpg",
+    "gallery": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Europa-moon-with-margins-center.jpg/220px-Europa-moon-with-margins-center.jpg",
+            "description": "Europa's surface with prominent linear features and icy plains"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Europa_Clipper_multiple_flyby_concept.jpg/220px-Europa_Clipper_multiple_flyby_concept.jpg",
+            "description": "Artistic rendition of the Europa Clipper spacecraft conducting multiple flybys of Europa"
+        }
+    ],
+    "parent_solar_system": "Jupiter's moons",
+    "galaxy": "Milky Way",
+    "interesting_facts": [
+        "Europa is one of the four Galilean moons of Jupiter.",
+        "It is known for its smooth, icy surface and potential subsurface ocean.",
+        "Europa is considered one of the most promising places to search for extraterrestrial life within our solar system.",
+        "Its surface is crisscrossed with linear fractures and ridges, indicating tectonic activity.",
+        "Europa's subsurface ocean is believed to contain more than twice the amount of water found on Earth.",
+        "Tidal forces from Jupiter cause heating within Europa's interior, maintaining its subsurface ocean in a liquid state.",
+        "The presence of liquid water beneath Europa's icy crust makes it an intriguing target for future exploration missions.",
+        "Europa's surface temperature can vary from about -160°C (-260°F) to -220°C (-370°F).",
+        "It is tidally locked to Jupiter, meaning the same side always faces the planet.",
+        "Europa's potential habitability has led to plans for future missions, such as NASA's Europa Clipper, to further study its surface and subsurface ocean."
+    ],
+    "atmospheric_composition": []
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Io",
+    "name_theory": "",
+    "description": "Io is the innermost of the four Galilean moons of Jupiter, known for its volcanic activity and colorful surface markings. It is the most geologically active object in the Solar System, with hundreds of active volcanoes constantly erupting. Io's surface is covered with sulfur and sulfur dioxide, giving it its distinct yellow, red, orange, and black hues.",
+    "body_type": "Natural satellite",
+    "wiki_link": "https://en.wikipedia.org/wiki/Io_(moon)",
+    "distance_from_jupiter": "Approximately 421,800 km on average",
+    "distance_from_nearest_star": "",
+    "radius": "1,821.6 km",
+    "size_compared_to_jupiter": "0.286 times the diameter of Jupiter",
+    "mass": "8.93 × 10^22 kg",
+    "density": "3.528 g/cm³",
+    "rotation_period": "Synchronous rotation; same as its orbital period (about 1.77 Earth days)",
+    "revolution_period": "About 1.77 Earth days",
+    "axial_tilt": "Zero (tidally locked)",
+    "max_temperature": "Approximately 1,300°C (2,372°F) near active volcanic vents",
+    "min_temperature": "-143°C (-225°F) in shaded regions",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Io_Highest-Res.jpg/220px-Io_Highest-Res.jpg",
+    "gallery": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Io_nighttime.jpg/220px-Io_nighttime.jpg",
+            "description": "Io's surface at nighttime, showing glowing volcanic eruptions"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Io_global.jpg/220px-Io_global.jpg",
+            "description": "Global view of Io with various volcanic plumes"
+        }
+    ],
+    "parent_solar_system": "Jupiter's moons",
+    "galaxy": "Milky Way",
+    "interesting_facts": [
+        "Io is the innermost of the four Galilean moons of Jupiter.",
+        "It is known for its intense volcanic activity, with hundreds of active volcanoes constantly erupting.",
+        "Io's surface is covered with sulfur and sulfur dioxide, giving it its distinct yellow, red, orange, and black hues.",
+        "It is the most geologically active object in the Solar System.",
+        "Io is tidally locked to Jupiter, meaning the same side always faces the planet.",
+        "Its surface temperature can reach approximately 1,300°C (2,372°F) near active volcanic vents.",
+        "Io experiences intense tidal heating due to gravitational interactions with Jupiter and its neighboring moons.",
+        "The volcanic plumes on Io can reach heights of hundreds of kilometers above its surface.",
+        "Io's volcanoes are driven by the extreme tidal forces exerted by Jupiter and its other moons.",
+        "The intense radiation environment around Jupiter causes Io's surface to become charged, leading to powerful electrical interactions with Jupiter's magnetosphere."
+    ],
+    "atmospheric_composition": []
+}

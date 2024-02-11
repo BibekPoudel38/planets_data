@@ -1,0 +1,44 @@
+{
+    "name": "Ganymede",
+    "name_theory": "",
+    "description": "Ganymede is the largest moon of Jupiter and the largest moon in the Solar System. It is composed of rock and water ice and has a subsurface ocean beneath its icy crust. Ganymede is the only moon in the Solar System known to have its own magnetic field. Its surface features include grooves, ridges, and impact craters, indicating past geological activity.",
+    "body_type": "Natural satellite",
+    "wiki_link": "https://en.wikipedia.org/wiki/Ganymede_(moon)",
+    "distance_from_jupiter": "Approximately 1,070,400 km on average",
+    "distance_from_nearest_star": "",
+    "radius": "2,634.1 km",
+    "size_compared_to_jupiter": "0.413 times the diameter of Jupiter",
+    "mass": "1.4819 × 10^23 kg",
+    "density": "1.936 g/cm³",
+    "rotation_period": "Synchronous rotation; same as its orbital period (about 7.15 Earth days)",
+    "revolution_period": "About 7.15 Earth days",
+    "axial_tilt": "Zero (tidally locked)",
+    "max_temperature": "-183°C (-297°F)",
+    "min_temperature": "-193°C (-315°F)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ganymede_g1_true-edit1.jpg/220px-Ganymede_g1_true-edit1.jpg",
+    "gallery": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ganymede_01_PIA03144.jpg/220px-Ganymede_01_PIA03144.jpg",
+            "description": "Ganymede's surface showing grooves and ridges"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ganymede_g1_Enhanced_color_crop.jpg/220px-Ganymede_g1_Enhanced_color_crop.jpg",
+            "description": "Enhanced color view of Ganymede's surface"
+        }
+    ],
+    "parent_solar_system": "Jupiter's moons",
+    "galaxy": "Milky Way",
+    "interesting_facts": [
+        "Ganymede is the largest moon of Jupiter and the largest moon in the Solar System.",
+        "It is composed of rock and water ice and has a subsurface ocean beneath its icy crust.",
+        "Ganymede is the only moon in the Solar System known to have its own magnetic field.",
+        "Its surface features include grooves, ridges, and impact craters, indicating past geological activity.",
+        "The presence of a subsurface ocean makes Ganymede a target for astrobiological studies.",
+        "Tidal heating from Jupiter is thought to keep Ganymede's subsurface ocean in a liquid state.",
+        "Ganymede's surface temperature can range from about -183°C (-297°F) to -193°C (-315°F).",
+        "It is tidally locked to Jupiter, meaning the same side always faces the planet.",
+        "Ganymede has a thin oxygen atmosphere, though it is too thin to support human life.",
+        "Ganymede has been visited by spacecraft such as Voyager and Galileo, providing valuable data about its composition and surface features."
+    ],
+    "atmospheric_composition": []
+}
