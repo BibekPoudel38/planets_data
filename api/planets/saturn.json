@@ -1,0 +1,114 @@
+{
+    "name": "Saturn",
+    "name_theory": "Saturn is named after the Roman god of agriculture and wealth. Its association with abundance and prosperity may stem from its prominent and beautiful ring system, visible even with small telescopes.",
+    "description": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System, known for its prominent ring system.",
+    "body_type": "Planet",
+    "wiki_link": "https://en.wikipedia.org/wiki/Saturn",
+    "distance_from_earth": "Approximately 1.2 billion kilometers on average",
+    "distance_from_nearest_star": "Approximately 1.4 billion kilometers from Saturn to the Sun",
+    "radius": "58,232 km",
+    "size_compared_to_earth": "9.45 times the diameter of Earth",
+    "mass": "5.683 × 10^26 kg",
+    "density": "0.687 g/cm³",
+    "rotation_period": "About 10.7 hours",
+    "revolution_period": "29.5 Earth years",
+    "axial_tilt": "26.73 degrees",
+    "max_temprature": "Approximately -139°C (-218°F) at the cloud tops",
+    "min_temprature": "Approximately -178°C (-288°F) at deeper layers",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Saturnx.png/1200px-Saturnx.png",
+    "gallery": [
+        {
+            "image": "https://example.com/saturn_rings.jpg",
+            "description": "Saturn's iconic ring system"
+        },
+        {
+            "image": "https://example.com/saturn_moons.jpg",
+            "description": "Saturn and its moons"
+        }
+    ],
+    "3d_model": "https://example.com/saturn_3d_model",
+    "parent_solar_system": "Solar System",
+    "galaxy": "Milky Way",
+    "SEPHI": "95.159",
+    "moon_count": 82,
+    "moons": [
+        {
+            "name": "Mimas",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mimas_Cassini.jpg/220px-Mimas_Cassini.jpg",
+            "distance": "185,520 kilometers from Saturn's center",
+            "radius": "198.2 kilometers"
+        },
+        {
+            "name": "Enceladus",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/PIA17202_-_Approaching_Enceladus.jpg/220px-PIA17202_-_Approaching_Enceladus.jpg",
+            "distance": "238,020 kilometers from Saturn's center",
+            "radius": "252.1 kilometers"
+        },
+        {
+            "name": "Tethys",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tethys_PIA07635.jpg/220px-Tethys_PIA07635.jpg",
+            "distance": "294,660 kilometers from Saturn's center",
+            "radius": "531.1 kilometers"
+        },
+        {
+            "name": "Dione",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dione_in_natural_light.jpg/220px-Dione_in_natural_light.jpg",
+            "distance": "377,420 kilometers from Saturn's center",
+            "radius": "561.4 kilometers"
+        },
+        {
+            "name": "Rhea",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Rhea_-_PIA07763_%28transparency%29.png/220px-Rhea_-_PIA07763_%28transparency%29.png",
+            "distance": "527,040 kilometers from Saturn's center",
+            "radius": "764.3 kilometers"
+        },
+        {
+            "name": "Titan",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Titan_in_true_color.jpg/220px-Titan_in_true_color.jpg",
+            "distance": "1,221,850 kilometers from Saturn's center",
+            "radius": "2,575 kilometers"
+        },
+        {
+            "name": "Iapetus",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Iapetus_PIA17178.jpg/220px-Iapetus_PIA17178.jpg",
+            "distance": "3,560,820 kilometers from Saturn's center",
+            "radius": "735.6 kilometers"
+        }
+    ],
+    "interesting_facts": [
+        "Saturn is the second-largest planet in the Solar System, with a diameter nearly 10 times that of Earth's.",
+        "Saturn is primarily composed of hydrogen and helium, similar to Jupiter, but it has a lower density, giving it a more extensive and less dense atmosphere.",
+        "Saturn is famous for its extensive ring system, composed of ice particles, dust, and rocks, which orbit the planet's equator.",
+        "Saturn's rings are divided into several distinct groups, named alphabetically in the order of their discovery.",
+        "Saturn's rings are thought to be relatively young compared to the age of the Solar System, possibly forming from the breakup of a moon or comet.",
+        "Saturn has at least 82 known moons, including Titan, the second-largest moon in the Solar System and the only one with a dense atmosphere.",
+        "Titan, Saturn's largest moon, has a thick atmosphere composed mainly of nitrogen, with methane lakes and rivers on its surface.",
+        "Saturn has a hexagonal-shaped storm at its north pole, observed by the Cassini spacecraft.",
+        "Saturn's rotation causes it to bulge at the equator and flatten at the poles, giving it an oblate spheroid shape.",
+        "Saturn has a complex magnetic field, which is weaker than Jupiter's but still significant.",
+        "Saturn's magnetic field creates auroras near its poles, similar to Earth's northern and southern lights.",
+        "Saturn has been visited by several spacecraft, including the Cassini-Huygens mission, which orbited the planet and its moons from 2004 to 2017.",
+        "Saturn's rings are composed mainly of water ice, with traces of other materials, such as rock and dust.",
+        "Saturn's rings can be observed from Earth using telescopes, and their appearance changes as the planet orbits the Sun.",
+        "Saturn's rings are incredibly thin, with a thickness of only a few hundred meters to several kilometers.",
+        "Saturn's rings may be remnants of a moon or comet that ventured too close to the planet and was torn apart by tidal forces.",
+        "Saturn's largest moon, Titan, is the only moon in the Solar System with a dense atmosphere, thicker than Earth's.",
+        "Saturn's rings are divided into several main groups, including the A, B, and C rings, as well as the fainter D, E, F, and G rings.",
+        "Saturn's rings are composed of countless individual ringlets, each orbiting Saturn independently.",
+        "Saturn's rings are constantly changing, with new ringlets forming and old ones disappearing over time."
+    ],
+    "atmospheric_composition": [
+        {
+            "element": "Hydrogen",
+            "amount": "96.3%"
+        },
+        {
+            "element": "Helium",
+            "amount": "3.25%"
+        },
+        {
+            "element": "Other gases",
+            "amount": "< 0.5%"
+        }
+    ]
+}

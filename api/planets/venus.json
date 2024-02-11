@@ -1,0 +1,71 @@
+{
+    "name": "Venus",
+    "name_theory": "Venus is named after the Roman goddess of love and beauty. The planet's bright appearance in the sky, particularly during its brightest phases, led to its association with the goddess of love.",
+    "description": "Venus is the second planet from the Sun in the Solar System. It is named after the Roman goddess of love and beauty.",
+    "body_type": "Planet",
+    "wiki_link": "https://en.wikipedia.org/wiki/Venus",
+    "distance_from_earth": "Approximately 38 million kilometers on average",
+    "distance_from_nearest_star": "Approximately 108 million kilometers from Venus to the Sun",
+    "radius": "6,051.8 km",
+    "size_compared_to_earth": "0.949 times the diameter of Earth",
+    "mass": "4.867 × 10^24 kg",
+    "density": "5.243 g/cm³",
+    "rotation_period": "243 Earth days",
+    "revolution_period": "225 Earth days",
+    "axial_tilt": "177.4 degrees",
+    "max_temprature": "462°C (864°F) on the surface",
+    "min_temprature": "Around 462°C (864°F) due to the thick atmosphere",
+    "image": "https://science.nasa.gov/wp-content/uploads/2023/09/Venus.jpg?w=4096&format=jpeg",
+    "gallery": [
+        {
+            "image": "https://example.com/venus_surface.jpg",
+            "description": "Surface of Venus with volcanic features"
+        },
+        {
+            "image": "https://example.com/venus_atmosphere.jpg",
+            "description": "Atmosphere of Venus showing thick clouds"
+        }
+    ],
+    "3d_model": "https://example.com/venus_3d_model",
+    "parent_solar_system": "Solar System",
+    "galaxy": "Milky Way",
+    "SEPHI": "0.903",
+    "moon_count": 0,
+    "moons": [],
+    "interesting_facts": [
+        "Venus is sometimes referred to as Earth's 'sister planet' due to their similar size and composition.",
+        "Venus has a very thick atmosphere composed mainly of carbon dioxide, with clouds of sulfuric acid.",
+        "Venus rotates in the opposite direction to most planets, a phenomenon known as retrograde rotation.",
+        "A day on Venus is longer than its year; it takes about 243 Earth days to complete one rotation on its axis.",
+        "Venus has the hottest surface temperature of any planet in the Solar System, even though Mercury is closer to the Sun.",
+        "Venus has no moons and no rings.",
+        "Venus' surface is marked by vast volcanic plains, large impact craters, and highland regions.",
+        "Venus' atmosphere creates a runaway greenhouse effect, trapping heat and raising surface temperatures to extreme levels.",
+        "Venus has been visited by several spacecraft, including the Soviet Venera missions and NASA's Magellan spacecraft.",
+        "Venus' thick atmosphere prevents surface details from being observed by telescopes, requiring radar imaging to map the planet's surface.",
+        "Venus is often called the 'Evening Star' when it appears in the western sky after sunset and the 'Morning Star' when it appears in the eastern sky before sunrise.",
+        "The surface of Venus is relatively young, with few impact craters, indicating recent volcanic activity.",
+        "Venus has been observed since ancient times and is named after the Roman goddess of love and beauty.",
+        "Venus has a slow retrograde rotation, taking longer to rotate on its axis than it does to orbit the Sun.",
+        "Venus' thick atmosphere consists mainly of carbon dioxide (96.5%) with traces of nitrogen and other gases.",
+        "Venus has a pressure at its surface about 92 times that of Earth's.",
+        "Venus' atmosphere is so dense that spacecraft have to withstand incredible pressure and heat to reach its surface.",
+        "Venus' clouds are made of sulfuric acid droplets, contributing to the planet's highly reflective appearance.",
+        "Venus' surface is obscured by thick clouds, making it difficult to study its geology and topography.",
+        "Venus has no natural satellites or moons orbiting around it."
+    ],
+    "atmospheric_composition": [
+        {
+            "element": "Carbon Dioxide",
+            "amount": "96.5%"
+        },
+        {
+            "element": "Nitrogen",
+            "amount": "3.5 ppm (parts per million)"
+        },
+        {
+            "element": "Other gases",
+            "amount": "< 1%"
+        }
+    ]
+}

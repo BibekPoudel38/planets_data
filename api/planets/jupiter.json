@@ -1,0 +1,96 @@
+{
+    "name": "Jupiter",
+    "name_theory": "Jupiter is named after the supreme god in Roman mythology, also known as the king of the gods. It is the largest planet in the Solar System, and its majestic presence likely inspired its association with the king of the gods.",
+    "description": "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a prominent red spot known as the Great Red Spot.",
+    "body_type": "Planet",
+    "wiki_link": "https://en.wikipedia.org/wiki/Jupiter",
+    "distance_from_earth": "Approximately 588 million kilometers on average",
+    "distance_from_nearest_star": "Approximately 778 million kilometers from Jupiter to the Sun",
+    "radius": "69,911 km",
+    "size_compared_to_earth": "11.2 times the diameter of Earth",
+    "mass": "1.898 × 10^27 kg",
+    "density": "1.33 g/cm³",
+    "rotation_period": "About 9.9 hours",
+    "revolution_period": "11.86 Earth years",
+    "axial_tilt": "3.13 degrees",
+    "max_temprature": "Approximately -145°C (-234°F) at the cloud tops",
+    "min_temprature": "Approximately -108°C (-162°F) at deeper layers",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jupiter_%28transparent%29.png",
+    "gallery": [
+        {
+            "image": "https://example.com/jupiter_clouds.jpg",
+            "description": "Jupiter's cloud bands and the Great Red Spot"
+        },
+        {
+            "image": "https://example.com/jupiter_moons.jpg",
+            "description": "Jupiter and its four largest moons: Io, Europa, Ganymede, and Callisto"
+        }
+    ],
+    "3d_model": "https://example.com/jupiter_3d_model",
+    "parent_solar_system": "Solar System",
+    "galaxy": "Milky Way",
+    "SEPHI": "318",
+    "moon_count": 95,
+    "moons": [
+        {
+            "name": "Io",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Io_highest_resolution_true_color.jpg",
+            "distance": "421,800 kilometers from Jupiter's center",
+            "radius": "1,821.6 kilometers"
+        },
+        {
+            "name": "Europa",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Europa-moon-with-margins.jpg",
+            "distance": "671,100 kilometers from Jupiter's center",
+            "radius": "1,569 kilometers"
+        },
+        {
+            "name": "Ganymede",
+            "image": "https://www.solarsystemscope.com/spacepedia/images/handbook/renders/ganymede.png",
+            "distance": "1,070,400 kilometers from Jupiter's center",
+            "radius": "2,634 kilometers"
+        },
+        {
+            "name": "Callisto",
+            "image": "https://www.solarsystemscope.com/spacepedia/images/handbook/renders/callisto.png",
+            "distance": "1,882,700 kilometers from Jupiter's center",
+            "radius": "2,410.3 kilometers"
+        }
+    ],
+    "interesting_facts": [
+        "Jupiter is the largest planet in the Solar System, with a diameter more than 11 times that of Earth's.",
+        "Jupiter is primarily composed of hydrogen and helium, similar to a small star, but it lacks sufficient mass to trigger nuclear fusion.",
+        "Jupiter has the shortest day of any planet in the Solar System, with a rotation period of about 9.9 hours.",
+        "Jupiter has a strong magnetic field, making it the largest and most powerful magnet in the Solar System.",
+        "Jupiter has a prominent feature known as the Great Red Spot, a massive storm larger than Earth that has been observed for centuries.",
+        "Jupiter has a faint ring system composed of dust particles, though it is not as visible as Saturn's rings.",
+        "Jupiter has at least 79 known moons, including the four largest moons known as the Galilean moons: Io, Europa, Ganymede, and Callisto.",
+        "Jupiter's moons exhibit diverse features, including volcanic activity on Io, possible subsurface oceans on Europa, and heavily cratered surfaces on Callisto.",
+        "Jupiter's gravitational influence plays a significant role in shaping the orbits of asteroids and comets in the Solar System.",
+        "Jupiter has been visited by several spacecraft, including the Galileo probe, which orbited the planet from 1995 to 2003.",
+        "Jupiter's atmosphere features colorful cloud bands, zones, and belts, created by strong winds and atmospheric dynamics.",
+        "Jupiter's atmosphere is mostly hydrogen and helium, with traces of other compounds such as methane, ammonia, and water vapor.",
+        "Jupiter has a faint planetary ring system composed of small particles.",
+        "Jupiter's magnetosphere is the largest structure in the Solar System, extending millions of kilometers into space.",
+        "Jupiter's magnetosphere traps charged particles, creating intense radiation belts that pose a hazard to spacecraft.",
+        "Jupiter's gravity accelerates particles in its magnetosphere, producing intense auroras near its poles.",
+        "Jupiter's interior is likely composed of a dense core of rocky material surrounded by layers of metallic hydrogen and liquid hydrogen.",
+        "Jupiter's mass is more than twice that of all the other planets in the Solar System combined.",
+        "Jupiter has been observed for thousands of years and was known to ancient civilizations, including the Babylonians, Greeks, and Romans.",
+        "Jupiter's moon Europa has attracted scientific interest due to its potential for harboring life beneath its icy surface."
+    ],
+    "atmospheric_composition": [
+        {
+            "element": "Hydrogen",
+            "amount": "89.8%"
+        },
+        {
+            "element": "Helium",
+            "amount": "10.2%"
+        },
+        {
+            "element": "Other gases",
+            "amount": "< 0.1%"
+        }
+    ]
+}

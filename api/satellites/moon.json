@@ -1,0 +1,56 @@
+{
+    "name": "Moon",
+    "name_theory": "",
+    "description": "The Moon is Earth's only natural satellite and the fifth largest satellite in the Solar System. It plays a significant role in Earth's tides and has been a subject of fascination and exploration throughout human history.",
+    "body_type": "Natural satellite",
+    "wiki_link": "https://en.wikipedia.org/wiki/Moon",
+    "distance_from_earth": "Approximately 384,400 km on average",
+    "distance_from_nearest_star": "",
+    "radius": "1,737.1 km",
+    "size_compared_to_earth": "0.272 times the diameter of Earth",
+    "mass": "7.342 × 10^22 kg",
+    "density": "3.3464 g/cm³",
+    "rotation_period": "Synchronous rotation; same as its orbital period (about 27.3 days)",
+    "revolution_period": "About 27.3 days (lunar month)",
+    "axial_tilt": "1.54 degrees",
+    "max_temprature": "127°C (260°F) at lunar noon",
+    "min_temprature": "-173°C (-280°F) at lunar night",
+    "image": "https://example.com/moon_image.jpg",
+    "gallery": [
+        {
+            "image": "https://example.com/moon_surface.jpg",
+            "description": "Surface of the Moon showing craters and lunar landscapes"
+        },
+        {
+            "image": "https://example.com/moon_from_earth.jpg",
+            "description": "Moon as seen from Earth"
+        }
+    ],
+    "3d_model": "https://example.com/moon_3d_model",
+    "parent_solar_system": "Solar System",
+    "galaxy": "Milky Way",
+    "SEPHI": "",
+    "moons": [],
+    "interesting_facts": [
+        "The Moon is the only celestial body beyond Earth that has been visited by humans.",
+        "The Moon is about 4.5 billion years old, roughly the same age as Earth.",
+        "The Moon's surface is covered in craters, caused by impacts from meteoroids and asteroids over millions of years.",
+        "The Moon has no atmosphere, which means there is no weather, wind, or erosion on its surface.",
+        "The Moon's gravity is about one-sixth of Earth's gravity, which allows astronauts to make large leaps and perform acrobatics.",
+        "The Moon's gravity also causes tides on Earth through gravitational attraction.",
+        "The Moon appears to have phases due to its orbit around Earth and the way sunlight illuminates its surface from different angles.",
+        "The Moon's rotation is synchronized with its orbit around Earth, meaning the same side always faces Earth.",
+        "The dark areas on the Moon's surface are called maria (Latin for seas) because early astronomers mistakenly thought they were bodies of water.",
+        "The Moon's far side, which is never visible from Earth, has a different appearance and fewer maria than the near side.",
+        "The Moon has been the subject of many lunar missions, including the Apollo program, which landed astronauts on its surface between 1969 and 1972.",
+        "The first human to set foot on the Moon was Neil Armstrong, commander of the Apollo 11 mission, on July 20, 1969.",
+        "The Moon has been used as a cultural and religious symbol throughout history, appearing in myths, folklore, and literature from various cultures.",
+        "The Moon's surface temperature can vary dramatically, from extremely hot during lunar day to extremely cold during lunar night.",
+        "The Moon's surface is covered in a layer of regolith, which consists of loose rocks, dust, and soil.",
+        "The Moon has no magnetic field, so it does not have a magnetosphere to protect it from solar radiation.",
+        "The Moon has no atmosphere, so there is no sound on its surface. Astronauts communicate using radio transmissions.",
+        "The Moon is slowly moving away from Earth at a rate of about 3.8 centimeters (1.5 inches) per year.",
+        "The Moon's origin is still a subject of scientific debate, but the leading theory is that it formed from debris ejected during a giant impact between Earth and a Mars-sized body early in the Solar System's history."
+    ],
+    "atmospheric_composition": []
+}

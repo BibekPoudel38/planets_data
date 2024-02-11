@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Planets",
+        "icon": ""
+    },
+    {
+        "id": 2,
+        "name": "Natural Satellites",
+        "icon": ""
+    },
+    {
+        "id": 3,
+        "name": "Artificial Satellites",
+        "icon": ""
+    },
+    {
+        "id": 4,
+        "name": "Comets",
+        "icon": ""
+    },
+    {
+        "id": 4,
+        "name": "Galaxies",
+        "icon": ""
+    },
+    {
+        "id": 4,
+        "name": "Others",
+        "icon": ""
+    }
+]

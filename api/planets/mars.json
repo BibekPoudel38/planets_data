@@ -1,0 +1,94 @@
+{
+    "name": "Mars",
+    "name_theory": "Mars is named after the Roman god of war. Its reddish appearance in the night sky, reminiscent of blood, led ancient civilizations to associate it with war and conflict.",
+    "description": "Mars is the fourth planet from the Sun in the Solar System. It is often called the 'Red Planet' due to its reddish appearance.",
+    "body_type": "Planet",
+    "wiki_link": "https://en.wikipedia.org/wiki/Mars",
+    "distance_from_earth": "Approximately 54.6 million kilometers on average",
+    "distance_from_nearest_star": "Approximately 54.6 million kilometers from Earth to Mars, and about 225 million kilometers from Mars to the Sun",
+    "radius": "3,389.5 km",
+    "size_compared_to_earth": "0.532 times the diameter of Earth",
+    "mass": "6.39 × 10^23 kg",
+    "density": "3.93 g/cm³",
+    "rotation_period": "About 24.6 hours (24 hours, 37 minutes, and 22 seconds)",
+    "revolution_period": "687 Earth days",
+    "axial_tilt": "25.19 degrees",
+    "max_temprature": "20°C (68°F) during the day near the equator in summer",
+    "min_temprature": "-153°C (-243°F) at the poles during winter",
+    "image": "https://pngimg.com/d/mars_planet_PNG38.png",
+    "gallery": [
+        {
+            "image": "https://example.com/mars_surface.jpg",
+            "description": "Surface of Mars showing rocky terrain and craters"
+        },
+        {
+            "image": "https://example.com/mars_rover.jpg",
+            "description": "Mars rover exploring the Martian surface"
+        }
+    ],
+    "3d_model": "https://example.com/mars_3d_model",
+    "parent_solar_system": "Solar System",
+    "galaxy": "Milky Way",
+    "SEPHI": "0.15",
+    "moon_count": 2,
+    "moons": [
+        {
+            "name": "Phobos",
+            "image": "https://static.wikia.nocookie.net/thesolarsystem6361/images/8/86/Mars-moon-phobos-500.png/revision/latest?cb=20170906144930",
+            "distance": "Approximately 9,378 kilometers from Mars' surface",
+            "radius": "11.1 kilometers"
+        },
+        {
+            "name": "Deimos",
+            "image": "https://static.wikia.nocookie.net/thesolarsystem6361/images/f/fd/Mars-moon-deimos-250.png/revision/latest?cb=20170906145156",
+            "distance": "Approximately 23,460 kilometers from Mars' surface",
+            "radius": "6.2 kilometers"
+        }
+    ],
+    "interesting_facts": [
+        "Mars has the largest volcano in the Solar System called Olympus Mons.",
+        "The atmosphere of Mars is mostly carbon dioxide, with traces of nitrogen and argon.",
+        "Mars has seasons similar to Earth due to its axial tilt.",
+        "The surface of Mars is marked by impact craters, valleys, and large volcanoes.",
+        "Mars has the longest valley in the Solar System called Valles Marineris.",
+        "The first successful flyby of Mars was by the Mariner 4 spacecraft in 1965.",
+        "Mars has polar ice caps composed of water and frozen carbon dioxide.",
+        "Mars' two moons, Phobos and Deimos, are irregularly shaped and likely captured asteroids.",
+        "Mars experiences dust storms that can cover the entire planet and last for months.",
+        "Water once flowed on the surface of Mars, evidenced by dried riverbeds and ancient shorelines.",
+        "Mars has a thin atmosphere, which results in dramatic temperature variations.",
+        "The average temperature on Mars is much colder than Earth's, making it inhospitable for humans without protection.",
+        "Mars' reddish color comes from iron oxide, or rust, on its surface.",
+        "Mars' gravity is about 38% of Earth's, making it challenging for humans to walk and stand.",
+        "Mars has been a subject of interest for astrobiology due to the possibility of past or present life.",
+        "Several missions have been sent to Mars to explore its surface, climate, and geology.",
+        "The Curiosity rover, launched in 2011, has been exploring Mars' surface and sending valuable data back to Earth.",
+        "Mars has two tiny moons, Phobos and Deimos, which were discovered in 1877 by American astronomer Asaph Hall.",
+        "The first successful landing on Mars was achieved by the Viking 1 spacecraft in 1976.",
+        "Mars has a thin atmosphere that cannot support liquid water on its surface, but evidence suggests that water existed in the past.",
+        "Mars has a day-night cycle similar to Earth's, with a slightly longer day.",
+        "The thin atmosphere on Mars makes it challenging for spacecraft to land safely, requiring special landing techniques."
+    ],
+    "atmospheric_composition": [
+        {
+            "element": "Carbon Dioxide",
+            "amount": "95.32%"
+        },
+        {
+            "element": "Nitrogen",
+            "amount": "2.7%"
+        },
+        {
+            "element": "Argon",
+            "amount": "1.6%"
+        },
+        {
+            "element": "Oxygen",
+            "amount": "0.13%"
+        },
+        {
+            "element": "Other gases",
+            "amount": "< 0.1%"
+        }
+    ]
+}

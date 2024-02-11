@@ -1,0 +1,104 @@
+{
+    "name": "Uranus",
+    "name_theory": "Uranus is named after the ancient Greek god of the sky, Ouranos. The name reflects the planet's distant and mysterious nature, as well as its position far beyond the visible planets known to ancient astronomers.",
+    "description": "Uranus is the seventh planet from the Sun and the third-largest in the Solar System. It is an ice giant with a unique rotational axis that is tilted almost perpendicular to its orbit.",
+    "body_type": "Planet",
+    "wiki_link": "https://en.wikipedia.org/wiki/Uranus",
+    "distance_from_earth": "Approximately 2.6 billion kilometers on average",
+    "distance_from_nearest_star": "Approximately 2.87 billion kilometers from Uranus to the Sun",
+    "radius": "25,362 km",
+    "size_compared_to_earth": "4.01 times the diameter of Earth",
+    "mass": "8.681 × 10^25 kg",
+    "density": "1.27 g/cm³",
+    "rotation_period": "About 17.2 hours",
+    "revolution_period": "84.0 Earth years",
+    "axial_tilt": "97.77 degrees",
+    "max_temprature": "Approximately -197°C (-323°F) at the cloud tops",
+    "min_temprature": "Approximately -224°C (-371°F) at deeper layers",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Transparent_Uranus.png",
+    "gallery": [
+        {
+            "image": "https://example.com/uranus_atmosphere.jpg",
+            "description": "Uranus' atmosphere showing its distinctive blue-green color"
+        },
+        {
+            "image": "https://example.com/uranus_moons.jpg",
+            "description": "Uranus and its moons"
+        }
+    ],
+    "3d_model": "https://example.com/uranus_3d_model",
+    "parent_solar_system": "Solar System",
+    "galaxy": "Milky Way",
+    "SEPHI": "14.536",
+    "moon_count": 27,
+    "moons": [
+        {
+            "name": "Miranda",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Miranda.jpg/220px-Miranda.jpg",
+            "distance": "129,390 kilometers from Uranus' center",
+            "radius": "235.8 kilometers"
+        },
+        {
+            "name": "Ariel",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ariel_%28moon%29.jpg/220px-Ariel_%28moon%29.jpg",
+            "distance": "191,020 kilometers from Uranus' center",
+            "radius": "578.9 kilometers"
+        },
+        {
+            "name": "Umbriel",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Umbriel_%28moon%29.jpg/220px-Umbriel_%28moon%29.jpg",
+            "distance": "266,300 kilometers from Uranus' center",
+            "radius": "584.7 kilometers"
+        },
+        {
+            "name": "Titania",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Titania_%28moon%29_color_cropped.jpg/220px-Titania_%28moon%29_color_cropped.jpg",
+            "distance": "435,910 kilometers from Uranus' center",
+            "radius": "788.9 kilometers"
+        },
+        {
+            "name": "Oberon",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Oberon_in_False_Color.jpg/220px-Oberon_in_False_Color.jpg",
+            "distance": "583,520 kilometers from Uranus' center",
+            "radius": "761.4 kilometers"
+        }
+    ],
+    "interesting_facts": [
+        "Uranus is the third-largest planet in the Solar System and the only one named after a Greek god, as opposed to a Roman deity.",
+        "Uranus is an ice giant composed mainly of water, ammonia, and methane in its atmosphere and a rocky core.",
+        "Uranus has a distinctive blue-green color due to the presence of methane in its atmosphere, which absorbs red light and reflects blue and green light.",
+        "Uranus has a highly tilted rotational axis, which means it essentially orbits the Sun on its side. This gives it extreme seasonal variations.",
+        "Uranus has a relatively uniform temperature throughout its atmosphere due to its axial tilt, with little variation between its poles and equator.",
+        "Uranus has a complex ring system, though it is less prominent than Saturn's rings. The rings were first discovered in 1977.",
+        "Uranus has at least 27 known moons, named after characters from the works of William Shakespeare and Alexander Pope.",
+        "Uranus has been visited by only one spacecraft, Voyager 2, which flew by the planet in 1986 and provided the first close-up images of Uranus and its moons.",
+        "Uranus' moons exhibit a wide range of features, including cratered surfaces, icy plains, and unusual geological formations.",
+        "Uranus' moons orbit the planet in a nearly equatorial plane, suggesting they may have formed from the debris of a collision with a large object in the planet's past.",
+        "Uranus' magnetic field is tilted relative to its rotational axis, likely due to its unique orientation in the Solar System.",
+        "Uranus' magnetic field is weaker than that of the other gas giants, possibly due to its smaller size and slower rotation.",
+        "Uranus has a faint system of rings, discovered during observations of the planet's occultation of a star in 1977.",
+        "Uranus' rings are composed mainly of dust particles and dark, boulder-sized objects, with some being as small as smoke particles.",
+        "Uranus' rings are dark and narrow compared to those of Saturn, making them difficult to observe from Earth.",
+        "Uranus' rings were discovered by the occultation method, where the rings' presence caused brief dimming of the star's light as Uranus passed in front of it.",
+        "Uranus' moons vary significantly in size and composition, with some having icy surfaces and others rocky or partially icy compositions.",
+        "Uranus' moons are named after characters from William Shakespeare's plays and Alexander Pope's poems, following the tradition of naming Uranus' moons after figures from literature and mythology."
+    ],
+    "atmospheric_composition": [
+        {
+            "element": "Hydrogen",
+            "amount": "82.5%"
+        },
+        {
+            "element": "Helium",
+            "amount": "15.2%"
+        },
+        {
+            "element": "Methane",
+            "amount": "2.3%"
+        },
+        {
+            "element": "Other gases",
+            "amount": "< 0.1%"
+        }
+    ]
+}
