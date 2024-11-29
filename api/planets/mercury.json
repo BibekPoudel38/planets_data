@@ -2,26 +2,26 @@
     "name": "Mercury",
     "name_theory": "The Romans knew of seven bright objects in the sky: the Sun, the Moon, and the five brightest planets. They named them after their most important gods. Because Mercury was the fastest planet as it moved around the Sun, it was named after the Roman messenger god Mercury",
     "description": "",
-    "body_type": "Natural satellite",
-    "wiki_link": "https://en.wikipedia.org/wiki/International_Space_Station",
-    "table_stats":{
-        "initial_launch_date":"1998/11/20",
-        "area":"2,247 sq. meters",
-        "length":"109 meters",
-        "weight":"419,725 Kg",
-        "speed_of_orbit":"16 times/day",
-        "habitable_volume":"388 cu. meters",
-        "solar_panel_capacity":"75-90 kw",
-        "Solar_panel_area":"1 Acres",
-        "sleeping_quarters":"7",
-        "bathrooms":"2",
-        "gym":"1",
-        "computers":"50+",
-        "internal_cabelings":"~13 km"
+    "body_type": "Planet",
+    "wiki_link": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+    "table_stats": {
+        "diameter": "4880 km approx",
+        "orbital_period": "88 days",
+        "rotation_period": "59 days",
+        "surface_temprature": "-173°c to 427°c",
+        "distance_from_sun": "57.9 million Km",
+        "distance_from_earth": "77 million km",
+        "gravity": "38% of Earth",
+        "magnetic_field": "1% of Earth",
+        "moon_count": "0",
+        "length_of_day": "176 day",
+        "orbital_speed": "47.8 km/s",
+        "orbital_inclination": "7 degree",
+        "density": "5.427 g/cm³",
+        "escape_velocity": "4.25 km/s",
+        "reflectivity": "0.12"
     },
-    "distance_from_earth": "Approximately 384,400 km on average",
-    "distance_from_nearest_star": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/ISS_spacecraft_model_1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/3D_Mercury.png",
     "gallery": [
         {
             "image": "https://en.wikipedia.org/wiki/File:The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpg",
@@ -56,5 +56,25 @@
         "The Moon is slowly moving away from Earth at a rate of about 3.8 centimeters (1.5 inches) per year.",
         "The Moon's origin is still a subject of scientific debate, but the leading theory is that it formed from debris ejected during a giant impact between Earth and a Mars-sized body early in the Solar System's history."
     ],
-    "atmospheric_composition": []
+    "table2": {
+        "title": "Atmospheric Composition",
+        "data": [
+            {
+                "Oxygen": "42%",
+                "Sodium": "29%",
+                "Hydrogen": "22%",
+                "Helium": "6%",
+                "Potassium": "0.5%",
+                "Trace_Elements": "0.5%"
+            }
+        ]
+    },
+    "missions": [
+        {
+            "title": "Bepi Colombo Mission",
+            "url": "",
+            "launch_date": "",
+            "active": "false"
+        }
+    ]
 }
