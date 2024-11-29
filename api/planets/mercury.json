@@ -24,37 +24,51 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/3D_Mercury.png",
     "gallery": [
         {
-            "image": "https://en.wikipedia.org/wiki/File:The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpg",
-            "description": "Oblique underside view in November 2021"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/290px-Mercury_in_true_color.jpg",
+            "description": "Mercury in true color"
         },
         {
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/STS-134_EVA4_view_to_the_Space_Shuttle_Endeavour.jpg/1024px-STS-134_EVA4_view_to_the_Space_Shuttle_Endeavour.jpg",
-            "description": "Fisheye view of several labs and the Space Shuttle"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mercury_with_magnetic_field.svg/1280px-Mercury_with_magnetic_field.svg.png",
+            "description": "Mercury Internal Structure"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/PIA19421-Mercury-Craters-MunchSanderPoe-20150416.jpg",
+            "description": "Enhanced-color image of craters Munch (left), Sander (center), and Poe (right) amid volcanic plains (orange) near Caloris Basin"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Terrestrial_planet_size_comparisons-2.jpg",
+            "description": "Mercury to scale among the Inner Solar System planetary-mass objects beside the Sun, arranged by the order of their orbits outward from the Sun (from left: Mercury, Venus, Earth, the Moon, Mars and Ceres)"
         }
     ],
     "3d_model": "https://example.com/moon_3d_model",
     "parent_solar_system": "Solar System",
     "galaxy": "Milky Way",
     "interesting_facts": [
-        "The Moon is the only celestial body beyond Earth that has been visited by humans.",
-        "The Moon is about 4.5 billion years old, roughly the same age as Earth.",
-        "The Moon's surface is covered in craters, caused by impacts from meteoroids and asteroids over millions of years.",
-        "The Moon has no atmosphere, which means there is no weather, wind, or erosion on its surface.",
-        "The Moon's gravity is about one-sixth of Earth's gravity, which allows astronauts to make large leaps and perform acrobatics.",
-        "The Moon's gravity also causes tides on Earth through gravitational attraction.",
-        "The Moon appears to have phases due to its orbit around Earth and the way sunlight illuminates its surface from different angles.",
-        "The Moon's rotation is synchronized with its orbit around Earth, meaning the same side always faces Earth.",
-        "The dark areas on the Moon's surface are called maria (Latin for seas) because early astronomers mistakenly thought they were bodies of water.",
-        "The Moon's far side, which is never visible from Earth, has a different appearance and fewer maria than the near side.",
-        "The Moon has been the subject of many lunar missions, including the Apollo program, which landed astronauts on its surface between 1969 and 1972.",
-        "The first human to set foot on the Moon was Neil Armstrong, commander of the Apollo 11 mission, on July 20, 1969.",
-        "The Moon has been used as a cultural and religious symbol throughout history, appearing in myths, folklore, and literature from various cultures.",
-        "The Moon's surface temperature can vary dramatically, from extremely hot during lunar day to extremely cold during lunar night.",
-        "The Moon's surface is covered in a layer of regolith, which consists of loose rocks, dust, and soil.",
-        "The Moon has no magnetic field, so it does not have a magnetosphere to protect it from solar radiation.",
-        "The Moon has no atmosphere, so there is no sound on its surface. Astronauts communicate using radio transmissions.",
-        "The Moon is slowly moving away from Earth at a rate of about 3.8 centimeters (1.5 inches) per year.",
-        "The Moon's origin is still a subject of scientific debate, but the leading theory is that it formed from debris ejected during a giant impact between Earth and a Mars-sized body early in the Solar System's history."
+        "Mercury is the closest planet to the Sun, with an average distance of about 57.9 million kilometers (36 million miles).",
+        "A year on Mercury (one orbit around the Sun) takes just 88 Earth days, making it the fastest planet in our solar system.",
+        "Despite being closest to the Sun, Mercury is not the hottest planet; that title belongs to Venus due to its thick atmosphere.",
+        "Mercury has a very thin atmosphere, composed mostly of oxygen, sodium, hydrogen, helium, and potassium.",
+        "A day on Mercury (one full rotation) is very long, lasting approximately 59 Earth days.",
+        "Mercury has a heavily cratered surface, similar to Earth's Moon, with large impact basins like the Caloris Basin.",
+        "Due to its slow rotation and lack of atmosphere, temperatures on Mercury can swing from extremely hot (up to 430°C or 800°F) to extremely cold (down to -180°C or -290°F) within a single day.",
+        "Mercury has no moons or rings.",
+        "The planet's core makes up about 85% of its radius, making it one of the largest planetary cores relative to its size in the solar system.",
+        "Mercury’s magnetic field is about 1% the strength of Earth's, suggesting its core is partially liquid.",
+        "Mercury is named after the Roman messenger god, Mercury, known for his speed.",
+        "The first spacecraft to visit Mercury was Mariner 10, which mapped about 45% of the planet’s surface in the 1970s.",
+        "The MESSENGER spacecraft, which orbited Mercury from 2011 to 2015, provided detailed information about its composition and geological history.",
+        "Mercury's surface is covered with smooth plains, high cliffs, and many impact craters.",
+        "The planet's exosphere is created by particles knocked off its surface by the solar wind and micrometeorites.",
+        "Mercury’s day-night cycle creates the most extreme temperature variation of any planet in the solar system.",
+        "The planet’s small size and lack of atmosphere mean it has little ability to retain heat.",
+        "Mercury has been known since ancient times and was observed by cultures such as the Sumerians, who referred to it around 3,000 BCE.",
+        "The Caloris Basin, one of Mercury’s most notable features, is about 1,550 kilometers (960 miles) in diameter, formed by a massive impact.",
+        "Due to its proximity to the Sun, observing Mercury with a telescope can be challenging, and it is often best seen during twilight.",
+        "Mercury’s orbit is highly elliptical, varying its distance from the Sun significantly.",
+        "Mercury’s surface contains large amounts of sulfur, which is unusual compared to other terrestrial planets.",
+        "In Roman mythology, Mercury was also the god of commerce, travel, and thievery.",
+        "Studies of Mercury provide insights into the formation and evolution of the inner planets in our solar system.",
+        "Unlike Earth, Mercury does not have tectonic plates; its surface changes mainly through impacts and volcanic activity."
     ],
     "table2": {
         "title": "Atmospheric Composition",
