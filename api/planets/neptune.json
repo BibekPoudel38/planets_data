@@ -77,5 +77,23 @@
             "launch_date": "20 August 1977",
             "active": "true"
         }
+    ],
+    "satellites": [
+        {
+            "name": "Triton",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Triton_-_August_25_1989_%28Narrow_Angle_Camera%29.png"
+        },
+        {
+            "name": "Proteus",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Proteus_%28Voyager_2%29.jpg"
+        },
+        {
+            "name": "Nereid",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nereid-Voyager2.gif"
+        },
+        {
+            "name": "Larissa",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Larissa.jpg"
+        }
     ]
 }

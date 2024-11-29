@@ -77,5 +77,23 @@
             "launch_date": "20 August 1977",
             "active": "true"
         }
+    ],
+    "satellites": [
+        {
+            "name": "Titania",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Titania_%28moon%29.jpg"
+        },
+        {
+            "name": "Oberon",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Oberon_%28moon%29.png"
+        },
+        {
+            "name": "Umbriel",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Umbriel_%28moon%29.png"
+        },
+        {
+            "name": "Ariel",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ariel_%28moon%29.png"
+        }
     ]
 }

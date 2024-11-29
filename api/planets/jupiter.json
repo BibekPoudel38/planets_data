@@ -91,5 +91,23 @@
             "launch_date": "20 August and 5 September 1977",
             "active": "true"
         }
+    ],
+    "satellites": [
+        {
+            "name": "Io",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Io_highest_resolution_true_color.jpg"
+        },
+        {
+            "name": "Europa",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Europa-moon.jpg"
+        },
+        {
+            "name": "Ganymede",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ganymede_g1_true-edit1.jpg"
+        },
+        {
+            "name": "Callisto",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Callisto.jpg"
+        }
     ]
 }

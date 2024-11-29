@@ -90,5 +90,23 @@
             "launch_date": "20 August and 5 September 1977",
             "active": "true"
         }
+    ],
+    "satellites": [
+        {
+            "name": "Titan",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Titan_in_true_color.jpg"
+        },
+        {
+            "name": "Enceladus",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Enceladusstripes_cassini.jpg"
+        },
+        {
+            "name": "Rhea",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rhea_in_natural_color_-_2005.jpg"
+        },
+        {
+            "name": "Iapetus",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Iapetus_as_seen_by_the_Cassini_probe_-_2007.jpg"
+        }
     ]
 }

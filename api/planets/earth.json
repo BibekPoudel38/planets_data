@@ -88,5 +88,11 @@
             "launch_date": "24 April 1990",
             "active": "true"
         }
+    ],
+    "satellites": [
+        {
+            "name": "Moon",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg"
+        }
     ]
 }

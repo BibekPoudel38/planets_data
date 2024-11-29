@@ -91,5 +91,15 @@
             "launch_date": "5 May 2018",
             "active": "true"
         }
+    ],
+    "satellites": [
+        {
+            "name": "Phobos",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Phobos_colour_2008.jpg"
+        },
+        {
+            "name": "Deimos",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Deimos-MRO.jpg"
+        }
     ]
 }
