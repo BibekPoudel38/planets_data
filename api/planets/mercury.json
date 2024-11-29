@@ -84,8 +84,8 @@
     "missions": [
         {
             "title": "Bepi Colombo Mission",
-            "url": "",
-            "launch_date": "",
+            "url": "https://en.wikipedia.org/wiki/BepiColombo",
+            "launch_date": "20 Oct 2018",
             "active": "false"
         }
     ]
