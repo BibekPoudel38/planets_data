@@ -58,16 +58,14 @@
     ],
     "table2": {
         "title": "Atmospheric Composition",
-        "data": [
-            {
-                "Oxygen": "42%",
-                "Sodium": "29%",
-                "Hydrogen": "22%",
-                "Helium": "6%",
-                "Potassium": "0.5%",
-                "Trace_Elements": "0.5%"
-            }
-        ]
+        "data": {
+            "Oxygen": "42%",
+            "Sodium": "29%",
+            "Hydrogen": "22%",
+            "Helium": "6%",
+            "Potassium": "0.5%",
+            "Trace_Elements": "0.5%"
+        }
     },
     "missions": [
         {
