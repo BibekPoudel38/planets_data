@@ -1,91 +1,95 @@
 {
     "name": "Venus",
-    "name_theory": "The planet Venus is named after the Roman goddess of love and beauty, who was also known as Aphrodite to the ancient Greeks. The Romans named the planet after the goddess because it is the brightest planet in the night sky. Venus is also the only planet named after a female deity.",
-    "description": "",
+    "name_theory": "Venus is named after the Roman goddess of love and beauty. It is the only planet in the Solar System named after a female deity. This naming is likely due to its brightness and visibility in the sky, which made it a prominent object for ancient astronomers.",
+    "description": "Venus is the second planet from the Sun and is often called Earth's sister planet due to their similar size and composition. However, Venus has an extremely thick atmosphere, surface temperatures hot enough to melt lead, and crushing atmospheric pressure.",
     "body_type": "Planet",
     "wiki_link": "https://en.wikipedia.org/wiki/Venus",
     "table_stats": {
-        "diameter": "4880 km approx",
-        "orbital_period": "88 days",
-        "rotation_period": "59 days",
-        "surface_temprature": "-173°c to 427°c",
-        "distance_from_sun": "57.9 million Km",
-        "distance_from_earth": "77 million km",
-        "gravity": "38% of Earth",
-        "magnetic_field": "1% of Earth",
+        "diameter": "12,104 km",
+        "orbital_period": "225 days",
+        "rotation_period": "243 days (retrograde)",
+        "surface_temperature": "462°C",
+        "distance_from_sun": "108.2 million km",
+        "distance_from_earth": "41 million km",
+        "gravity": "90% of Earth",
+        "magnetic_field": "Very weak",
         "moon_count": "0",
-        "length_of_day": "176 day",
-        "orbital_speed": "47.8 km/s",
-        "orbital_inclination": "7 degree",
-        "density": "5.427 g/cm³",
-        "escape_velocity": "4.25 km/s",
-        "reflectivity": "0.12"
+        "length_of_day": "117 Earth days",
+        "orbital_speed": "35.02 km/s",
+        "orbital_inclination": "3.39 degrees",
+        "density": "5.243 g/cm³",
+        "escape_velocity": "10.36 km/s",
+        "reflectivity": "0.65 (high albedo due to cloud cover)"
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Venus_globe_-_transparent_background.png/2048px-Venus_globe_-_transparent_background.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg",
     "gallery": [
         {
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/290px-Mercury_in_true_color.jpg",
-            "description": "Mercury in true color"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg",
+            "description": "Venus in real color"
         },
         {
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mercury_with_magnetic_field.svg/1280px-Mercury_with_magnetic_field.svg.png",
-            "description": "Mercury Internal Structure"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Venus_globe.jpg/290px-Venus_globe.jpg",
+            "description": "Venus globe showing surface details"
         },
         {
-            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/PIA19421-Mercury-Craters-MunchSanderPoe-20150416.jpg",
-            "description": "Enhanced-color image of craters Munch (left), Sander (center), and Poe (right) amid volcanic plains (orange) near Caloris Basin"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Magellan_Venus_globe.jpg",
+            "description": "3D representation of Venus surface by Magellan mission"
         },
         {
-            "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Terrestrial_planet_size_comparisons-2.jpg",
-            "description": "Mercury to scale among the Inner Solar System planetary-mass objects beside the Sun, arranged by the order of their orbits outward from the Sun (from left: Mercury, Venus, Earth, the Moon, Mars and Ceres)"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Venus_pioneer_uv.jpg",
+            "description": "Venus in ultraviolet by Pioneer Venus Orbiter"
         }
     ],
-    "3d_model": "https://example.com/moon_3d_model",
+    "3d_model": "https://example.com/venus_3d_model",
     "parent_solar_system": "Solar System",
     "galaxy": "Milky Way",
     "interesting_facts": [
-        "Mercury is the closest planet to the Sun, with an average distance of about 57.9 million kilometers (36 million miles).",
-        "A year on Mercury (one orbit around the Sun) takes just 88 Earth days, making it the fastest planet in our solar system.",
-        "Despite being closest to the Sun, Mercury is not the hottest planet; that title belongs to Venus due to its thick atmosphere.",
-        "Mercury has a very thin atmosphere, composed mostly of oxygen, sodium, hydrogen, helium, and potassium.",
-        "A day on Mercury (one full rotation) is very long, lasting approximately 59 Earth days.",
-        "Mercury has a heavily cratered surface, similar to Earth's Moon, with large impact basins like the Caloris Basin.",
-        "Due to its slow rotation and lack of atmosphere, temperatures on Mercury can swing from extremely hot (up to 430°C or 800°F) to extremely cold (down to -180°C or -290°F) within a single day.",
-        "Mercury has no moons or rings.",
-        "The planet's core makes up about 85% of its radius, making it one of the largest planetary cores relative to its size in the solar system.",
-        "Mercury’s magnetic field is about 1% the strength of Earth's, suggesting its core is partially liquid.",
-        "Mercury is named after the Roman messenger god, Mercury, known for his speed.",
-        "The first spacecraft to visit Mercury was Mariner 10, which mapped about 45% of the planet’s surface in the 1970s.",
-        "The MESSENGER spacecraft, which orbited Mercury from 2011 to 2015, provided detailed information about its composition and geological history.",
-        "Mercury's surface is covered with smooth plains, high cliffs, and many impact craters.",
-        "The planet's exosphere is created by particles knocked off its surface by the solar wind and micrometeorites.",
-        "Mercury’s day-night cycle creates the most extreme temperature variation of any planet in the solar system.",
-        "The planet’s small size and lack of atmosphere mean it has little ability to retain heat.",
-        "Mercury has been known since ancient times and was observed by cultures such as the Sumerians, who referred to it around 3,000 BCE.",
-        "The Caloris Basin, one of Mercury’s most notable features, is about 1,550 kilometers (960 miles) in diameter, formed by a massive impact.",
-        "Due to its proximity to the Sun, observing Mercury with a telescope can be challenging, and it is often best seen during twilight.",
-        "Mercury’s orbit is highly elliptical, varying its distance from the Sun significantly.",
-        "Mercury’s surface contains large amounts of sulfur, which is unusual compared to other terrestrial planets.",
-        "In Roman mythology, Mercury was also the god of commerce, travel, and thievery.",
-        "Studies of Mercury provide insights into the formation and evolution of the inner planets in our solar system.",
-        "Unlike Earth, Mercury does not have tectonic plates; its surface changes mainly through impacts and volcanic activity."
+        "Venus is the hottest planet in our solar system, with surface temperatures around 462°C (864°F) due to its thick atmosphere composed mainly of carbon dioxide, which creates a strong greenhouse effect.",
+        "A day on Venus (one rotation on its axis) is longer than a year on Venus (one orbit around the Sun). It takes about 243 Earth days to rotate once but only about 225 Earth days to complete an orbit.",
+        "Venus rotates in the opposite direction to most planets in the Solar System. This retrograde rotation means that, on Venus, the Sun rises in the west and sets in the east.",
+        "The atmospheric pressure on Venus is about 92 times greater than Earth's, equivalent to the pressure found 900 meters underwater on Earth.",
+        "Venus has no moons or rings.",
+        "The surface of Venus is covered with volcanoes and deformed mountains. Over 1600 major volcanoes or volcanic features are known, and some may still be active.",
+        "Venus has the longest rotation period (day length) of any planet in the Solar System.",
+        "Venus is often called Earth's twin because of its similar size and proximity to Earth, but its environment is drastically different.",
+        "Venus is shrouded in thick clouds of sulfuric acid, making it impossible to view its surface with optical telescopes.",
+        "Space missions to Venus include Venera (Soviet Union), Pioneer Venus (NASA), Magellan (NASA), and Akatsuki (Japan).",
+        "Venus's high albedo (reflectivity) makes it the brightest planet in the night sky, visible even during daylight under the right conditions.",
+        "Venus has no magnetic field, likely due to its slow rotation.",
+        "The first successful flyby of Venus was by NASA's Mariner 2 spacecraft in 1962.",
+        "The Venera missions by the Soviet Union were the first to land on Venus and send back images of the surface, with Venera 7 being the first successful landing in 1970.",
+        "Venus's thick atmosphere and sulfuric acid clouds create a greenhouse effect that keeps temperatures extremely high and consistent across the planet, both day and night."
     ],
     "table2": {
         "title": "Atmospheric Composition",
         "data": {
-            "Oxygen": "42%",
-            "Sodium": "29%",
-            "Hydrogen": "22%",
-            "Helium": "6%",
-            "Potassium": "0.5%",
-            "Trace_Elements": "0.5%"
+            "Carbon Dioxide": "96.5%",
+            "Nitrogen": "3.5%",
+            "Sulfur Dioxide": "Trace",
+            "Water Vapor": "Trace",
+            "Carbon Monoxide": "Trace",
+            "Argon": "Trace",
+            "Helium": "Trace",
+            "Neon": "Trace"
         }
     },
     "missions": [
         {
-            "title": "Bepi Colombo Mission",
-            "url": "https://en.wikipedia.org/wiki/BepiColombo",
-            "launch_date": "20 Oct 2018",
+            "title": "Akatsuki",
+            "url": "https://en.wikipedia.org/wiki/Akatsuki_(spacecraft)",
+            "launch_date": "20 May 2010",
+            "active": "true"
+        },
+        {
+            "title": "Magellan",
+            "url": "https://en.wikipedia.org/wiki/Magellan_(spacecraft)",
+            "launch_date": "4 May 1989",
+            "active": "false"
+        },
+        {
+            "title": "Venera Program",
+            "url": "https://en.wikipedia.org/wiki/Venera",
+            "launch_date": "1961 - 1984",
             "active": "false"
         }
     ]

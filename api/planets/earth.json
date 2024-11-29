@@ -1,86 +1,92 @@
 {
     "name": "Earth",
-    "name_theory": "The name \"Earth\" is derived from Old English and Germanic words meaning \"ground\" or \"soil.\" It's believed that the name originates from the Anglo-Saxon word 'erda,' which refers to the ground or soil, emphasizing the planet's solid surface.",
-    "description": "Earth is the third planet from the Sun and the only known planet to support life. It is the densest and fifth-largest of the eight planets in the Solar System.",
+    "name_theory": "The name Earth derives from the Old English word 'eorðe' and the German word 'Erde,' which mean ground or soil. Unlike other planets in the Solar System, Earth is not named after a mythological god or goddess.",
+    "description": "Earth is the third planet from the Sun and the only known astronomical object known to harbor and support life. It has a diverse climate, abundant water, and a protective atmosphere that sustains a wide variety of living organisms.",
     "body_type": "Planet",
     "wiki_link": "https://en.wikipedia.org/wiki/Earth",
-    "distance_from_earth": "0 km",
-    "distance_from_nearest_star": "Approximately 149.6 million kilometers from Earth to the Sun",
-    "radius": "6,371 km",
-    "size_compared_to_earth": "1.0 (same size)",
-    "mass": "5.972 × 10^24 kg",
-    "density": "5.514 g/cm³",
-    "rotation_period": "23.93 hours (24 hours on average)",
-    "revolution_period": "365.25 days (1 year)",
-    "axial_tilt": "23.5 degrees",
-    "max_temprature": "58°C (136.4°F) recorded in Al 'Aziziyah, Libya",
-    "min_temprature": "-89.2°C (-128.6°F) recorded at Vostok Station, Antarctica",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1200px-Earth_Western_Hemisphere_transparent_background.png",
+    "table_stats": {
+        "diameter": "12,742 km",
+        "orbital_period": "365.25 days",
+        "rotation_period": "24 hours",
+        "surface_temperature": "-88°C to 58°C",
+        "distance_from_sun": "149.6 million km",
+        "gravity": "9.807 m/s²",
+        "magnetic_field": "0.25 to 0.65 gauss",
+        "moon_count": "1",
+        "length_of_day": "24 hours",
+        "orbital_speed": "29.78 km/s",
+        "orbital_inclination": "0.00005 degrees",
+        "density": "5.513 g/cm³",
+        "escape_velocity": "11.186 km/s",
+        "reflectivity": "0.367 (average albedo)"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg",
     "gallery": [
         {
-            "image": "https://example.com/earth_surface.jpg",
-            "description": "Earth's surface showing continents and oceans"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg",
+            "description": "The Earth seen from Apollo 17"
         },
         {
-            "image": "https://example.com/earth_from_space.jpg",
-            "description": "Earth as seen from space"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Earth_Eastern_Hemisphere.jpg/330px-Earth_Eastern_Hemisphere.jpg",
+            "description": "Earth's Eastern Hemisphere"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Earth_Western_Hemisphere.jpg/330px-Earth_Western_Hemisphere.jpg",
+            "description": "Earth's Western Hemisphere"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg",
+            "description": "The Blue Marble"
         }
     ],
     "3d_model": "https://example.com/earth_3d_model",
     "parent_solar_system": "Solar System",
     "galaxy": "Milky Way",
-    "SEPHI": "1.0",
-    "moon_count": 1,
-    "moons": [
-        {
-            "name": "Moon",
-            "image": "https://pngimg.com/d/moon_PNG3.png",
-            "distance": "384,400 kilometers",
-            "radius": "1,737.5 kilometers"
-        }
-    ],
     "interesting_facts": [
-        "Earth is the only known planet to support life, with a rich diversity of ecosystems and organisms.",
-        "Earth's atmosphere is composed of approximately 78% nitrogen, 21% oxygen, and traces of other gases.",
-        "Earth's surface is covered by approximately 71% water, mostly in the form of oceans.",
-        "Earth has a magnetic field that protects it from harmful solar radiation and cosmic rays.",
-        "Earth has one natural satellite, the Moon, which plays a significant role in tides and stabilizing Earth's rotation.",
-        "Earth experiences four seasons—spring, summer, autumn (fall), and winter—due to its axial tilt and orbit around the Sun.",
-        "Earth's rotation on its axis causes day and night cycles, with each rotation taking approximately 24 hours.",
-        "Earth's orbit around the Sun is nearly circular, with a slightly elliptical shape, resulting in a year of 365.25 days.",
-        "Earth has a diverse range of climates and ecosystems, from deserts to rainforests and polar regions.",
-        "Earth has a liquid outer core and a solid inner core, composed mostly of iron and nickel.",
-        "Earth's atmosphere protects life on the planet by trapping heat and moderating temperature extremes.",
-        "Earth's ozone layer absorbs harmful ultraviolet radiation from the Sun, crucial for protecting life from damage.",
-        "Earth has a unique system of plate tectonics, with the Earth's crust divided into several large and small tectonic plates that interact and cause earthquakes and volcanic activity.",
-        "Earth is the only known planet where water exists in all three states: solid (ice), liquid (water), and gas (water vapor).",
-        "Earth's biosphere comprises the combined ecosystems of the planet, including living organisms and their environments.",
-        "Earth's gravity is approximately 9.8 m/s² (32.2 ft/s²) at its surface, providing the force that keeps objects grounded.",
-        "Earth's Moon is the fifth-largest moon in the Solar System and is thought to have formed from debris ejected during a collision between Earth and another celestial body.",
-        "Earth's climate is influenced by various factors, including solar radiation, atmospheric composition, and ocean currents.",
-        "Earth's oceans contain about 97% of the planet's water, with the remaining 3% found in glaciers, ice caps, and freshwater sources.",
-        "Earth's rotation is gradually slowing due to tidal forces from the Moon, resulting in longer days over geological time scales."
+        "Earth is the only known planet to support life, with diverse ecosystems ranging from deep oceans to high mountains.",
+        "About 71% of Earth's surface is covered by water, primarily in the form of oceans.",
+        "Earth's atmosphere is composed of 78% nitrogen, 21% oxygen, and trace amounts of other gases, including carbon dioxide and water vapor.",
+        "Earth has one natural satellite, the Moon, which affects tides and stabilizes the planet's rotation.",
+        "Earth's magnetic field protects the planet from harmful solar radiation.",
+        "The highest point on Earth is Mount Everest, which stands at 8,848 meters (29,029 feet) above sea level.",
+        "The lowest natural point on Earth's surface is the Challenger Deep in the Mariana Trench, which lies about 10,994 meters (36,070 feet) below sea level.",
+        "Earth's rotation is gradually slowing down at a rate of approximately 1.7 milliseconds per century.",
+        "The planet's biodiversity has evolved over billions of years, with millions of species of plants, animals, and microorganisms.",
+        "Earth is located in the habitable zone of the Solar System, where conditions are just right for liquid water to exist.",
+        "The Earth’s crust is divided into tectonic plates that move and interact, causing earthquakes, volcanic activity, and the formation of mountains.",
+        "The planet experiences seasonal changes due to the tilt of its axis relative to its orbital plane.",
+        "Earth has a layered structure consisting of the crust, mantle, outer core, and inner core.",
+        "The planet’s surface is constantly changing due to processes like erosion, weathering, and plate tectonics.",
+        "Earth's average distance from the Sun is about 93 million miles (150 million kilometers), a distance that light travels in about 8 minutes and 20 seconds."
     ],
-    "atmospheric_composition": [
+    "table2": {
+        "title": "Atmospheric Composition",
+        "data": {
+            "Nitrogen": "78%",
+            "Oxygen": "21%",
+            "Argon": "0.93%",
+            "Carbon Dioxide": "0.04%",
+            "Other Gases": "0.03%"
+        }
+    },
+    "missions": [
         {
-            "element": "Nitrogen",
-            "amount": "78.08%"
+            "title": "Apollo Program",
+            "url": "https://en.wikipedia.org/wiki/Apollo_program",
+            "launch_date": "1961 - 1972",
+            "active": "false"
         },
         {
-            "element": "Oxygen",
-            "amount": "20.95%"
+            "title": "International Space Station (ISS)",
+            "url": "https://en.wikipedia.org/wiki/International_Space_Station",
+            "launch_date": "20 November 1998",
+            "active": "true"
         },
         {
-            "element": "Argon",
-            "amount": "0.93%"
-        },
-        {
-            "element": "Carbon Dioxide",
-            "amount": "0.04%"
-        },
-        {
-            "element": "Other gases",
-            "amount": "< 0.01%"
+            "title": "Hubble Space Telescope",
+            "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+            "launch_date": "24 April 1990",
+            "active": "true"
         }
     ]
 }
