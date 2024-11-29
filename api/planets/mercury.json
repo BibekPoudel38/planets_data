@@ -1,83 +1,60 @@
 {
     "name": "Mercury",
-    "name_theory": "Mercury is named after the Roman messenger god, known for his speed and agility. The planet moves swiftly across the sky, which likely inspired its association with the swift messenger of the gods.",
-    "description": "Mercury is the smallest and innermost planet in the Solar System. It is named after the Roman deity Mercury, the messenger to the gods.",
-    "body_type": "Planet",
-    "wiki_link": "https://en.wikipedia.org/wiki/Mercury_(planet)",
-    "distance_from_earth": "Approximately 77 million kilometers on average",
-    "distance_from_nearest_star": "Approximately 46 million kilometers from Mercury to the Sun",
-    "radius": "2,439.7 km",
-    "size_compared_to_earth": "0.383 times the diameter of Earth",
-    "mass": "3.3011 × 10^23 kg",
-    "density": "5.427 g/cm³",
-    "rotation_period": "58.6 Earth days",
-    "revolution_period": "88 Earth days",
-    "axial_tilt": "0.034 degrees",
-    "max_temprature": "427°C (800°F) on the side facing the Sun",
-    "min_temprature": "-173°C (-280°F) on the side facing away from the Sun",
-    "image": "https://assets.stickpng.com/images/580b585b2edbce24c47b2709.png",
+    "name_theory": "The Romans knew of seven bright objects in the sky: the Sun, the Moon, and the five brightest planets. They named them after their most important gods. Because Mercury was the fastest planet as it moved around the Sun, it was named after the Roman messenger god Mercury",
+    "description": "",
+    "body_type": "Natural satellite",
+    "wiki_link": "https://en.wikipedia.org/wiki/International_Space_Station",
+    "table_stats":{
+        "initial_launch_date":"1998/11/20",
+        "area":"2,247 sq. meters",
+        "length":"109 meters",
+        "weight":"419,725 Kg",
+        "speed_of_orbit":"16 times/day",
+        "habitable_volume":"388 cu. meters",
+        "solar_panel_capacity":"75-90 kw",
+        "Solar_panel_area":"1 Acres",
+        "sleeping_quarters":"7",
+        "bathrooms":"2",
+        "gym":"1",
+        "computers":"50+",
+        "internal_cabelings":"~13 km"
+    },
+    "distance_from_earth": "Approximately 384,400 km on average",
+    "distance_from_nearest_star": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/ISS_spacecraft_model_1.png",
     "gallery": [
         {
-            "image": "https://example.com/mercury_surface.jpg",
-            "description": "Surface of Mercury showing craters and plains"
+            "image": "https://en.wikipedia.org/wiki/File:The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpg",
+            "description": "Oblique underside view in November 2021"
         },
         {
-            "image": "https://example.com/mercury_orbit.jpg",
-            "description": "Orbit of Mercury around the Sun"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/STS-134_EVA4_view_to_the_Space_Shuttle_Endeavour.jpg/1024px-STS-134_EVA4_view_to_the_Space_Shuttle_Endeavour.jpg",
+            "description": "Fisheye view of several labs and the Space Shuttle"
         }
     ],
-    "3d_model": "https://example.com/mercury_3d_model",
+    "3d_model": "https://example.com/moon_3d_model",
     "parent_solar_system": "Solar System",
     "galaxy": "Milky Way",
-    "SEPHI": "0.38",
-    "moon_count": 0,
-    "moons": [],
     "interesting_facts": [
-        "Mercury has the shortest orbit around the Sun of any planet in the Solar System.",
-        "Mercury's surface is heavily cratered, resembling the Moon's surface.",
-        "Mercury has a very thin atmosphere composed mainly of oxygen, sodium, hydrogen, helium, and potassium.",
-        "Mercury has no moons.",
-        "Mercury's surface experiences extreme temperature variations due to its lack of atmosphere.",
-        "Mercury's rotation is unique; it completes three rotations about its axis for every two orbits around the Sun.",
-        "The Caloris Basin on Mercury is one of the largest impact basins in the Solar System.",
-        "Mercury's surface is covered in plains that are believed to be formed by volcanic activity.",
-        "Mercury's orbit is the most eccentric of all the planets in the Solar System, meaning it is the most elongated.",
-        "Mercury has been visited by spacecraft, including the MESSENGER mission, which provided detailed observations of the planet.",
-        "Mercury is difficult to observe from Earth due to its proximity to the Sun, making it visible only during specific times.",
-        "The surface temperature of Mercury can reach over 400°C (752°F) during the day and drop to -180°C (-292°F) at night.",
-        "Mercury's core is proportionally larger than that of any other planet, comprising about 85% of its radius.",
-        "Mercury's surface is scarred by cliffs and faults caused by the planet's contraction as its core cooled.",
-        "Mercury is named after the Roman messenger god because of its fast orbit around the Sun.",
-        "The smallest planet in the Solar System, Mercury is only slightly larger than Earth's moon.",
-        "Mercury has a magnetic field, though much weaker than Earth's.",
-        "Mercury's orbit is inclined by about 7 degrees to the plane of Earth's orbit around the Sun.",
-        "Mercury is one of the five planets visible to the naked eye from Earth.",
-        "Mercury has been known since ancient times, with observations dating back thousands of years."
+        "The Moon is the only celestial body beyond Earth that has been visited by humans.",
+        "The Moon is about 4.5 billion years old, roughly the same age as Earth.",
+        "The Moon's surface is covered in craters, caused by impacts from meteoroids and asteroids over millions of years.",
+        "The Moon has no atmosphere, which means there is no weather, wind, or erosion on its surface.",
+        "The Moon's gravity is about one-sixth of Earth's gravity, which allows astronauts to make large leaps and perform acrobatics.",
+        "The Moon's gravity also causes tides on Earth through gravitational attraction.",
+        "The Moon appears to have phases due to its orbit around Earth and the way sunlight illuminates its surface from different angles.",
+        "The Moon's rotation is synchronized with its orbit around Earth, meaning the same side always faces Earth.",
+        "The dark areas on the Moon's surface are called maria (Latin for seas) because early astronomers mistakenly thought they were bodies of water.",
+        "The Moon's far side, which is never visible from Earth, has a different appearance and fewer maria than the near side.",
+        "The Moon has been the subject of many lunar missions, including the Apollo program, which landed astronauts on its surface between 1969 and 1972.",
+        "The first human to set foot on the Moon was Neil Armstrong, commander of the Apollo 11 mission, on July 20, 1969.",
+        "The Moon has been used as a cultural and religious symbol throughout history, appearing in myths, folklore, and literature from various cultures.",
+        "The Moon's surface temperature can vary dramatically, from extremely hot during lunar day to extremely cold during lunar night.",
+        "The Moon's surface is covered in a layer of regolith, which consists of loose rocks, dust, and soil.",
+        "The Moon has no magnetic field, so it does not have a magnetosphere to protect it from solar radiation.",
+        "The Moon has no atmosphere, so there is no sound on its surface. Astronauts communicate using radio transmissions.",
+        "The Moon is slowly moving away from Earth at a rate of about 3.8 centimeters (1.5 inches) per year.",
+        "The Moon's origin is still a subject of scientific debate, but the leading theory is that it formed from debris ejected during a giant impact between Earth and a Mars-sized body early in the Solar System's history."
     ],
-    "atmospheric_composition": [
-        {
-            "element": "Oxygen",
-            "amount": "42%"
-        },
-        {
-            "element": "Sodium",
-            "amount": "29%"
-        },
-        {
-            "element": "Hydrogen",
-            "amount": "22%"
-        },
-        {
-            "element": "Helium",
-            "amount": "6%"
-        },
-        {
-            "element": "Potassium",
-            "amount": "0.5%"
-        },
-        {
-            "element": "Other gases",
-            "amount": "< 0.5%"
-        }
-    ]
+    "atmospheric_composition": []
 }
