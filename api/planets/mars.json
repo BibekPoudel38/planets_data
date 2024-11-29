@@ -1,94 +1,95 @@
 {
     "name": "Mars",
-    "name_theory": "Mars is named after the Roman god of war. Its reddish appearance in the night sky, reminiscent of blood, led ancient civilizations to associate it with war and conflict.",
-    "description": "Mars is the fourth planet from the Sun in the Solar System. It is often called the 'Red Planet' due to its reddish appearance.",
+    "name_theory": "Mars is named after the Roman god of war due to its reddish appearance, which resembles blood. The planet's distinct red color is due to iron oxide, commonly known as rust, on its surface.",
+    "description": "Mars is the fourth planet from the Sun and is often referred to as the 'Red Planet' because of its reddish appearance. It has the tallest volcano and the deepest, longest canyon in the Solar System.",
     "body_type": "Planet",
     "wiki_link": "https://en.wikipedia.org/wiki/Mars",
-    "distance_from_earth": "Approximately 54.6 million kilometers on average",
-    "distance_from_nearest_star": "Approximately 54.6 million kilometers from Earth to Mars, and about 225 million kilometers from Mars to the Sun",
-    "radius": "3,389.5 km",
-    "size_compared_to_earth": "0.532 times the diameter of Earth",
-    "mass": "6.39 × 10^23 kg",
-    "density": "3.93 g/cm³",
-    "rotation_period": "About 24.6 hours (24 hours, 37 minutes, and 22 seconds)",
-    "revolution_period": "687 Earth days",
-    "axial_tilt": "25.19 degrees",
-    "max_temprature": "20°C (68°F) during the day near the equator in summer",
-    "min_temprature": "-153°C (-243°F) at the poles during winter",
-    "image": "https://pngimg.com/d/mars_planet_PNG38.png",
+    "table_stats": {
+        "diameter": "6,779 km",
+        "orbital_period": "687 days",
+        "rotation_period": "24.6 hours",
+        "surface_temperature": "-87°C to -5°C",
+        "distance_from_sun": "227.9 million km",
+        "distance_from_earth": "54.6 million km",
+        "gravity": "38% of Earth",
+        "magnetic_field": "Remnant magnetism",
+        "moon_count": "2",
+        "length_of_day": "24.6 hours",
+        "orbital_speed": "24.077 km/s",
+        "orbital_inclination": "1.85 degrees",
+        "density": "3.933 g/cm³",
+        "escape_velocity": "5.03 km/s",
+        "reflectivity": "0.25 (albedo)"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg",
     "gallery": [
         {
-            "image": "https://example.com/mars_surface.jpg",
-            "description": "Surface of Mars showing rocky terrain and craters"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg",
+            "description": "Mars in true color"
         },
         {
-            "image": "https://example.com/mars_rover.jpg",
-            "description": "Mars rover exploring the Martian surface"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/VallesMarinerisHuge.jpg",
+            "description": "Valles Marineris canyon system"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Olympus_Mons.jpg",
+            "description": "Olympus Mons, the tallest volcano in the Solar System"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/MarsCuriosityRover.jpg",
+            "description": "NASA's Curiosity Rover on Mars"
         }
     ],
     "3d_model": "https://example.com/mars_3d_model",
     "parent_solar_system": "Solar System",
     "galaxy": "Milky Way",
-    "SEPHI": "0.15",
-    "moon_count": 2,
-    "moons": [
-        {
-            "name": "Phobos",
-            "image": "https://static.wikia.nocookie.net/thesolarsystem6361/images/8/86/Mars-moon-phobos-500.png/revision/latest?cb=20170906144930",
-            "distance": "Approximately 9,378 kilometers from Mars' surface",
-            "radius": "11.1 kilometers"
-        },
-        {
-            "name": "Deimos",
-            "image": "https://static.wikia.nocookie.net/thesolarsystem6361/images/f/fd/Mars-moon-deimos-250.png/revision/latest?cb=20170906145156",
-            "distance": "Approximately 23,460 kilometers from Mars' surface",
-            "radius": "6.2 kilometers"
-        }
-    ],
     "interesting_facts": [
-        "Mars has the largest volcano in the Solar System called Olympus Mons.",
-        "The atmosphere of Mars is mostly carbon dioxide, with traces of nitrogen and argon.",
-        "Mars has seasons similar to Earth due to its axial tilt.",
-        "The surface of Mars is marked by impact craters, valleys, and large volcanoes.",
-        "Mars has the longest valley in the Solar System called Valles Marineris.",
-        "The first successful flyby of Mars was by the Mariner 4 spacecraft in 1965.",
-        "Mars has polar ice caps composed of water and frozen carbon dioxide.",
-        "Mars' two moons, Phobos and Deimos, are irregularly shaped and likely captured asteroids.",
-        "Mars experiences dust storms that can cover the entire planet and last for months.",
-        "Water once flowed on the surface of Mars, evidenced by dried riverbeds and ancient shorelines.",
-        "Mars has a thin atmosphere, which results in dramatic temperature variations.",
-        "The average temperature on Mars is much colder than Earth's, making it inhospitable for humans without protection.",
-        "Mars' reddish color comes from iron oxide, or rust, on its surface.",
-        "Mars' gravity is about 38% of Earth's, making it challenging for humans to walk and stand.",
-        "Mars has been a subject of interest for astrobiology due to the possibility of past or present life.",
-        "Several missions have been sent to Mars to explore its surface, climate, and geology.",
-        "The Curiosity rover, launched in 2011, has been exploring Mars' surface and sending valuable data back to Earth.",
-        "Mars has two tiny moons, Phobos and Deimos, which were discovered in 1877 by American astronomer Asaph Hall.",
-        "The first successful landing on Mars was achieved by the Viking 1 spacecraft in 1976.",
-        "Mars has a thin atmosphere that cannot support liquid water on its surface, but evidence suggests that water existed in the past.",
-        "Mars has a day-night cycle similar to Earth's, with a slightly longer day.",
-        "The thin atmosphere on Mars makes it challenging for spacecraft to land safely, requiring special landing techniques."
+        "Mars is home to the tallest volcano in the Solar System, Olympus Mons, which is about 13.6 miles (22 kilometers) high.",
+        "The planet has the largest canyon in the Solar System, Valles Marineris, which stretches over 2,500 miles (4,000 kilometers) long and reaches depths of up to 7 miles (11 kilometers).",
+        "Mars has two small moons, Phobos and Deimos, which are thought to be captured asteroids.",
+        "A Martian day, or sol, is only slightly longer than an Earth day, lasting 24.6 hours.",
+        "Mars experiences seasons similar to Earth due to its axial tilt, though they last about twice as long because of its longer orbit around the Sun.",
+        "The atmosphere of Mars is very thin, composed mostly of carbon dioxide (95.3%), nitrogen (2.7%), and argon (1.6%).",
+        "Mars has the largest dust storms in the Solar System, sometimes covering the entire planet and lasting for months.",
+        "The surface of Mars has signs of ancient river valleys, lakes, and flood plains, indicating that liquid water once existed on the planet.",
+        "Mars has been visited by numerous spacecraft from Earth, including orbiters, landers, and rovers, such as Viking, Pathfinder, Spirit, Opportunity, Curiosity, and Perseverance.",
+        "Mars's gravity is only about 38% that of Earth's, which means you could jump nearly three times higher on Mars than you can on Earth.",
+        "The thin atmosphere on Mars means that liquid water cannot exist on its surface for long without evaporating or freezing.",
+        "Mars's reddish color is due to iron oxide, or rust, on its surface.",
+        "The first successful flyby of Mars was by NASA's Mariner 4 in 1965, which sent back the first close-up images of the Martian surface.",
+        "The Curiosity rover discovered evidence of ancient conditions that could have supported microbial life on Mars.",
+        "Mars has been a target for potential human exploration due to its relatively hospitable environment compared to other planets."
     ],
-    "atmospheric_composition": [
+    "table2": {
+        "title": "Atmospheric Composition",
+        "data": {
+            "Carbon Dioxide": "95.3%",
+            "Nitrogen": "2.7%",
+            "Argon": "1.6%",
+            "Oxygen": "0.13%",
+            "Carbon Monoxide": "0.08%",
+            "Water Vapor": "0.03%",
+            "Other Gases": "Trace"
+        }
+    },
+    "missions": [
         {
-            "element": "Carbon Dioxide",
-            "amount": "95.32%"
+            "title": "Curiosity Rover",
+            "url": "https://en.wikipedia.org/wiki/Curiosity_(rover)",
+            "launch_date": "26 November 2011",
+            "active": "true"
         },
         {
-            "element": "Nitrogen",
-            "amount": "2.7%"
+            "title": "Perseverance Rover",
+            "url": "https://en.wikipedia.org/wiki/Perseverance_(rover)",
+            "launch_date": "30 July 2020",
+            "active": "true"
         },
         {
-            "element": "Argon",
-            "amount": "1.6%"
-        },
-        {
-            "element": "Oxygen",
-            "amount": "0.13%"
-        },
-        {
-            "element": "Other gases",
-            "amount": "< 0.1%"
+            "title": "InSight Lander",
+            "url": "https://en.wikipedia.org/wiki/InSight",
+            "launch_date": "5 May 2018",
+            "active": "true"
         }
     ]
 }

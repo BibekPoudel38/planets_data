@@ -1,93 +1,81 @@
 {
     "name": "Neptune",
-    "name_theory": "Neptune is named after the Roman god of the sea. The name reflects its deep blue coloration, reminiscent of the vast oceans on Earth, and also acknowledges its position as the most distant planet from the Sun at the time of its discovery.",
-    "description": "Neptune is the eighth and farthest planet from the Sun in the Solar System. It is a gas giant, similar in composition to Uranus, and has a deep blue coloration due to the presence of methane in its atmosphere.",
+    "name_theory": "Neptune is named after the Roman god of the sea. In Greek mythology, he is known as Poseidon.",
+    "description": "Neptune is the eighth and farthest known planet from the Sun in the Solar System. It is the fourth-largest planet by diameter and the third-largest by mass. Neptune is a gas giant known for its deep blue color and strong winds.",
     "body_type": "Planet",
     "wiki_link": "https://en.wikipedia.org/wiki/Neptune",
-    "distance_from_earth": "Approximately 4.3 billion kilometers on average",
-    "distance_from_nearest_star": "Approximately 4.5 billion kilometers from Neptune to the Sun",
-    "radius": "24,622 km",
-    "size_compared_to_earth": "3.88 times the diameter of Earth",
-    "mass": "1.024 × 10^26 kg",
-    "density": "1.64 g/cm³",
-    "rotation_period": "About 16.1 hours",
-    "revolution_period": "164.8 Earth years",
-    "axial_tilt": "28.32 degrees",
-    "max_temprature": "Approximately -201°C (-330°F) at the cloud tops",
-    "min_temprature": "Approximately -218°C (-360°F) at deeper layers",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Neptune_cutout.png/776px-Neptune_cutout.png",
+    "table_stats": {
+        "diameter": "49,244 km",
+        "orbital_period": "164.8 years",
+        "rotation_period": "16.11 hours",
+        "surface_temperature": "-214°C",
+        "distance_from_sun": "4.495 billion km",
+        "distance_from_earth": "4.3 billion km (average)",
+        "gravity": "11.15 m/s²",
+        "magnetic_field": "27 times stronger than Earth's",
+        "moon_count": "14",
+        "length_of_day": "16.11 hours",
+        "orbital_speed": "5.43 km/s",
+        "orbital_inclination": "1.77 degrees",
+        "density": "1.64 g/cm³",
+        "escape_velocity": "23.5 km/s",
+        "reflectivity": "0.41 (albedo)"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Neptune_Full.jpg",
     "gallery": [
         {
-            "image": "https://example.com/neptune_atmosphere.jpg",
-            "description": "Neptune's atmosphere showing its blue coloration and cloud bands"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Neptune_Full.jpg",
+            "description": "Neptune in true color"
         },
         {
-            "image": "https://example.com/neptune_moons.jpg",
-            "description": "Neptune and its moons"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Neptune_clouds.jpg",
+            "description": "Enhanced color image of Neptune's clouds"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Neptune_rings.jpg",
+            "description": "Neptune's rings captured by Voyager 2"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Triton_moon_mosaic.jpg",
+            "description": "Triton, Neptune's largest moon"
         }
     ],
     "3d_model": "https://example.com/neptune_3d_model",
     "parent_solar_system": "Solar System",
     "galaxy": "Milky Way",
-    "SEPHI": "17.147",
-    "moon_count": 14,
-    "moons": [
-        {
-            "name": "Triton",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Triton_moon_mosaic_Voyager_2_%28large%29.jpg/220px-Triton_moon_mosaic_Voyager_2_%28large%29.jpg",
-            "distance": "354,760 kilometers from Neptune's center",
-            "radius": "1,353.4 kilometers"
-        },
-        {
-            "name": "Proteus",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Proteus_%28Voyager_2%29.jpg/220px-Proteus_%28Voyager_2%29.jpg",
-            "distance": "117,647 kilometers from Neptune's center",
-            "radius": "210 kilometers"
-        },
-        {
-            "name": "Nereid",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Nereid-Voyager2.jpg/220px-Nereid-Voyager2.jpg",
-            "distance": "5,513,400 kilometers from Neptune's center",
-            "radius": "170 kilometers"
-        }
-    ],
     "interesting_facts": [
-        "Neptune is the eighth and farthest planet from the Sun in the Solar System, with an average distance of about 4.5 billion kilometers.",
-        "Neptune is a gas giant similar in composition to Uranus, with a deep blue coloration due to the presence of methane in its atmosphere.",
-        "Neptune has a complex atmosphere with dynamic weather patterns, including high-speed winds and massive storms, such as the Great Dark Spot observed by the Voyager 2 spacecraft.",
-        "Neptune has the strongest winds in the Solar System, with speeds reaching up to 2,100 kilometers per hour (1,300 miles per hour).",
-        "Neptune has a faint ring system similar to that of Uranus, composed of dark particles and debris.",
-        "Neptune has at least 14 known moons, including Triton, the largest moon, which orbits in a retrograde direction opposite to the planet's rotation.",
-        "Triton, Neptune's largest moon, is thought to be a captured Kuiper Belt object due to its retrograde orbit and geological activity, including cryovolcanism.",
-        "Neptune has been visited by only one spacecraft, Voyager 2, which flew by the planet in 1989 and provided valuable data and images of Neptune and its moons.",
-        "Neptune's magnetic field is tilted relative to its rotational axis and offset from the planet's center, possibly due to the presence of a metallic hydrogen layer in its interior.",
-        "Neptune's magnetic field is stronger than that of Uranus but weaker than those of Jupiter and Saturn.",
-        "Neptune has a deep and dynamic atmosphere with distinct cloud bands, including bright clouds of methane ice and dark storms.",
-        "Neptune's atmosphere undergoes seasonal changes due to its tilted axis and elliptical orbit, resulting in variations in cloud patterns and atmospheric dynamics.",
-        "Neptune has a faint system of rings composed of dust particles and debris, similar to those of Uranus but less extensive and prominent.",
-        "Neptune's rings were first discovered in 1984 by astronomers observing the planet's occultation of a star.",
-        "Neptune's rings are named after astronomers and scientists who made significant contributions to the study of the planet.",
-        "Neptune's moons vary in size and composition, with some having irregular shapes and others exhibiting geologically active surfaces.",
-        "Neptune's moons are believed to have formed from the debris of collisions between larger objects in the early Solar System, with Triton likely being a captured Kuiper Belt object.",
-        "Neptune's moons exhibit a wide range of features, including icy surfaces, craters, and geysers of nitrogen gas and dust.",
-        "Neptune's moons orbit the planet in relatively stable orbits, with some being in resonance with each other due to gravitational interactions."
+        "Neptune was the first planet to be discovered by mathematical predictions rather than through direct observation.",
+        "It is known for its deep blue color, caused by the absorption of red light by methane in the atmosphere.",
+        "Neptune has the strongest winds of any planet in the Solar System, with speeds reaching up to 2,100 kilometers per hour.",
+        "The planet has a faint and fragmented ring system composed of dust and ice particles.",
+        "Neptune's largest moon, Triton, is unique due to its retrograde orbit, indicating it may have been captured by Neptune's gravity.",
+        "Triton has geysers that spew nitrogen gas, making it one of the few geologically active moons in the Solar System.",
+        "Neptune's atmosphere consists mostly of hydrogen, helium, and methane, with trace amounts of water and ammonia.",
+        "The planet's interior is thought to be composed of a core of rock and metal, surrounded by a mantle of water, ammonia, and methane ices.",
+        "Neptune's magnetic field is tilted and offset from the planet's center, similar to Uranus.",
+        "The planet has several dark spots similar to Jupiter's Great Red Spot, which are thought to be storms.",
+        "Voyager 2 is the only spacecraft to have visited Neptune, providing valuable data during its flyby in 1989.",
+        "Neptune has a dynamic climate, with large-scale storms and weather patterns changing over time.",
+        "The planet's outer atmosphere is characterized by high-altitude clouds of methane ice crystals.",
+        "Neptune has 14 known moons, with Triton being the largest and most studied.",
+        "The planet's rings are named after astronomers who made significant contributions to Neptune's discovery and study."
     ],
-    "atmospheric_composition": [
+    "table2": {
+        "title": "Atmospheric Composition",
+        "data": {
+            "Hydrogen": "80.0%",
+            "Helium": "19.0%",
+            "Methane": "1.5%",
+            "Ammonia": "trace",
+            "Water": "trace"
+        }
+    },
+    "missions": [
         {
-            "element": "Hydrogen",
-            "amount": "80%"
-        },
-        {
-            "element": "Helium",
-            "amount": "19%"
-        },
-        {
-            "element": "Methane",
-            "amount": "1.5%"
-        },
-        {
-            "element": "Other gases",
-            "amount": "< 0.5%"
+            "title": "Voyager 2",
+            "url": "https://en.wikipedia.org/wiki/Voyager_2",
+            "launch_date": "20 August 1977",
+            "active": "true"
         }
     ]
 }

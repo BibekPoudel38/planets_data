@@ -1,114 +1,94 @@
 {
     "name": "Saturn",
-    "name_theory": "Saturn is named after the Roman god of agriculture and wealth. Its association with abundance and prosperity may stem from its prominent and beautiful ring system, visible even with small telescopes.",
-    "description": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System, known for its prominent ring system.",
+    "name_theory": "Saturn is named after the Roman god of wealth and agriculture. In Greek mythology, he is known as Cronus, the father of Zeus (Jupiter).",
+    "description": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System. It is a gas giant known for its prominent ring system and numerous moons.",
     "body_type": "Planet",
     "wiki_link": "https://en.wikipedia.org/wiki/Saturn",
-    "distance_from_earth": "Approximately 1.2 billion kilometers on average",
-    "distance_from_nearest_star": "Approximately 1.4 billion kilometers from Saturn to the Sun",
-    "radius": "58,232 km",
-    "size_compared_to_earth": "9.45 times the diameter of Earth",
-    "mass": "5.683 × 10^26 kg",
-    "density": "0.687 g/cm³",
-    "rotation_period": "About 10.7 hours",
-    "revolution_period": "29.5 Earth years",
-    "axial_tilt": "26.73 degrees",
-    "max_temprature": "Approximately -139°C (-218°F) at the cloud tops",
-    "min_temprature": "Approximately -178°C (-288°F) at deeper layers",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Saturnx.png/1200px-Saturnx.png",
+    "table_stats": {
+        "diameter": "116,460 km",
+        "orbital_period": "29.46 years",
+        "rotation_period": "10.7 hours",
+        "surface_temperature": "-178°C",
+        "distance_from_sun": "1.429 billion km",
+        "distance_from_earth": "1.2 billion km (average)",
+        "gravity": "10.44 m/s²",
+        "magnetic_field": "578 times stronger than Earth's",
+        "moon_count": "83",
+        "length_of_day": "10.7 hours",
+        "orbital_speed": "9.68 km/s",
+        "orbital_inclination": "2.48 degrees",
+        "density": "0.687 g/cm³",
+        "escape_velocity": "35.5 km/s",
+        "reflectivity": "0.47 (albedo)"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg",
     "gallery": [
         {
-            "image": "https://example.com/saturn_rings.jpg",
-            "description": "Saturn's iconic ring system"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg",
+            "description": "Saturn in true color"
         },
         {
-            "image": "https://example.com/saturn_moons.jpg",
-            "description": "Saturn and its moons"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Saturn_PIA01482.jpg",
+            "description": "Enhanced color image of Saturn"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Saturn_from_Cassini_Orbiter_%282004-10-06%29.jpg",
+            "description": "The Cassini spacecraft captured this image of Saturn's rings"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/PIA11141_-_Saturn_-_20081017.jpg",
+            "description": "Saturn's north pole with a hexagonal storm"
         }
     ],
     "3d_model": "https://example.com/saturn_3d_model",
     "parent_solar_system": "Solar System",
     "galaxy": "Milky Way",
-    "SEPHI": "95.159",
-    "moon_count": 82,
-    "moons": [
-        {
-            "name": "Mimas",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mimas_Cassini.jpg/220px-Mimas_Cassini.jpg",
-            "distance": "185,520 kilometers from Saturn's center",
-            "radius": "198.2 kilometers"
-        },
-        {
-            "name": "Enceladus",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/PIA17202_-_Approaching_Enceladus.jpg/220px-PIA17202_-_Approaching_Enceladus.jpg",
-            "distance": "238,020 kilometers from Saturn's center",
-            "radius": "252.1 kilometers"
-        },
-        {
-            "name": "Tethys",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tethys_PIA07635.jpg/220px-Tethys_PIA07635.jpg",
-            "distance": "294,660 kilometers from Saturn's center",
-            "radius": "531.1 kilometers"
-        },
-        {
-            "name": "Dione",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dione_in_natural_light.jpg/220px-Dione_in_natural_light.jpg",
-            "distance": "377,420 kilometers from Saturn's center",
-            "radius": "561.4 kilometers"
-        },
-        {
-            "name": "Rhea",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Rhea_-_PIA07763_%28transparency%29.png/220px-Rhea_-_PIA07763_%28transparency%29.png",
-            "distance": "527,040 kilometers from Saturn's center",
-            "radius": "764.3 kilometers"
-        },
-        {
-            "name": "Titan",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Titan_in_true_color.jpg/220px-Titan_in_true_color.jpg",
-            "distance": "1,221,850 kilometers from Saturn's center",
-            "radius": "2,575 kilometers"
-        },
-        {
-            "name": "Iapetus",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Iapetus_PIA17178.jpg/220px-Iapetus_PIA17178.jpg",
-            "distance": "3,560,820 kilometers from Saturn's center",
-            "radius": "735.6 kilometers"
-        }
-    ],
     "interesting_facts": [
-        "Saturn is the second-largest planet in the Solar System, with a diameter nearly 10 times that of Earth's.",
-        "Saturn is primarily composed of hydrogen and helium, similar to Jupiter, but it has a lower density, giving it a more extensive and less dense atmosphere.",
-        "Saturn is famous for its extensive ring system, composed of ice particles, dust, and rocks, which orbit the planet's equator.",
-        "Saturn's rings are divided into several distinct groups, named alphabetically in the order of their discovery.",
-        "Saturn's rings are thought to be relatively young compared to the age of the Solar System, possibly forming from the breakup of a moon or comet.",
-        "Saturn has at least 82 known moons, including Titan, the second-largest moon in the Solar System and the only one with a dense atmosphere.",
-        "Titan, Saturn's largest moon, has a thick atmosphere composed mainly of nitrogen, with methane lakes and rivers on its surface.",
-        "Saturn has a hexagonal-shaped storm at its north pole, observed by the Cassini spacecraft.",
-        "Saturn's rotation causes it to bulge at the equator and flatten at the poles, giving it an oblate spheroid shape.",
-        "Saturn has a complex magnetic field, which is weaker than Jupiter's but still significant.",
-        "Saturn's magnetic field creates auroras near its poles, similar to Earth's northern and southern lights.",
-        "Saturn has been visited by several spacecraft, including the Cassini-Huygens mission, which orbited the planet and its moons from 2004 to 2017.",
-        "Saturn's rings are composed mainly of water ice, with traces of other materials, such as rock and dust.",
-        "Saturn's rings can be observed from Earth using telescopes, and their appearance changes as the planet orbits the Sun.",
-        "Saturn's rings are incredibly thin, with a thickness of only a few hundred meters to several kilometers.",
-        "Saturn's rings may be remnants of a moon or comet that ventured too close to the planet and was torn apart by tidal forces.",
-        "Saturn's largest moon, Titan, is the only moon in the Solar System with a dense atmosphere, thicker than Earth's.",
-        "Saturn's rings are divided into several main groups, including the A, B, and C rings, as well as the fainter D, E, F, and G rings.",
-        "Saturn's rings are composed of countless individual ringlets, each orbiting Saturn independently.",
-        "Saturn's rings are constantly changing, with new ringlets forming and old ones disappearing over time."
+        "Saturn is the second-largest planet in the Solar System, with a diameter of about 116,460 kilometers.",
+        "It has the most extensive ring system of any planet, composed mostly of ice particles, with smaller amounts of rocky debris and dust.",
+        "Saturn has at least 83 moons, with Titan being the largest and the second-largest moon in the Solar System.",
+        "Titan, Saturn's largest moon, is larger than the planet Mercury and has a thick atmosphere with lakes of liquid methane and ethane.",
+        "Saturn is primarily composed of hydrogen and helium, similar to Jupiter, but it has a lower density.",
+        "The planet's average density is less than that of water, meaning Saturn would float if placed in a sufficiently large body of water.",
+        "Saturn's magnetic field is weaker than Jupiter's but still 578 times stronger than Earth's.",
+        "The planet's atmosphere exhibits a banded structure similar to Jupiter's, with fast winds reaching up to 1,800 kilometers per hour.",
+        "Saturn's north pole features a persistent hexagonal cloud pattern, a unique weather phenomenon.",
+        "The planet's rings are divided into seven main rings, labeled A to G, with the Cassini Division being the most prominent gap.",
+        "Saturn's rotation period is about 10.7 hours, making it the second-fastest rotating planet in the Solar System.",
+        "The planet emits more heat than it receives from the Sun due to the slow gravitational compression of the planet (Kelvin-Helmholtz mechanism).",
+        "Saturn's rings are thought to be remnants of comets, asteroids, or shattered moons that broke up before they reached the planet.",
+        "The rings are incredibly thin, with an average thickness of about 10 meters despite spanning up to 282,000 kilometers in diameter.",
+        "The Cassini spacecraft, which orbited Saturn from 2004 to 2017, provided extensive data about the planet, its rings, and moons.",
+        "Saturn's gravity is strong enough to influence the orbits of objects in the Kuiper Belt, a region of the Solar System beyond Neptune."
     ],
-    "atmospheric_composition": [
+    "table2": {
+        "title": "Atmospheric Composition",
+        "data": {
+            "Hydrogen": "96.3%",
+            "Helium": "3.25%",
+            "Methane": "0.4%",
+            "Ammonia": "0.01%",
+            "Ethane": "0.0007%"
+        }
+    },
+    "missions": [
         {
-            "element": "Hydrogen",
-            "amount": "96.3%"
+            "title": "Cassini-Huygens Mission",
+            "url": "https://en.wikipedia.org/wiki/Cassini–Huygens",
+            "launch_date": "15 October 1997",
+            "active": "false"
         },
         {
-            "element": "Helium",
-            "amount": "3.25%"
+            "title": "Pioneer 11",
+            "url": "https://en.wikipedia.org/wiki/Pioneer_11",
+            "launch_date": "6 April 1973",
+            "active": "false"
         },
         {
-            "element": "Other gases",
-            "amount": "< 0.5%"
+            "title": "Voyager Missions",
+            "url": "https://en.wikipedia.org/wiki/Voyager_program",
+            "launch_date": "20 August and 5 September 1977",
+            "active": "true"
         }
     ]
 }
