@@ -1,0 +1,23 @@
+[
+    {
+    
+        "id": 99,
+        "name": "Exo Planets",
+        "icon": ""
+    },
+    {
+        "id": 2,
+        "name": "Stars",
+        "icon": ""
+    },
+    {
+        "id": 3,
+        "name": "Natural Satellites",
+        "icon": ""
+    },
+    {
+        "id": 4,
+        "name": "Artificial Satellites",
+        "icon": ""
+    }
+]

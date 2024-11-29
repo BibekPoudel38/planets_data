@@ -5,11 +5,6 @@
         "icon": ""
     },
     {
-        "id": 99,
-        "name": "Exo Planets",
-        "icon": ""
-    },
-    {
         "id": 2,
         "name": "Stars",
         "icon": ""
@@ -22,21 +17,6 @@
     {
         "id": 4,
         "name": "Artificial Satellites",
-        "icon": ""
-    },
-    {
-        "id": 5,
-        "name": "Comets",
-        "icon": ""
-    },
-    {
-        "id": 6,
-        "name": "Galaxies",
-        "icon": ""
-    },
-    {
-        "id": 7,
-        "name": "Others",
         "icon": ""
     }
 ]
