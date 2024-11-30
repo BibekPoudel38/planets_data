@@ -20,19 +20,19 @@
         "escape_velocity": "11.186 km/s",
         "reflectivity": "0.367 (average albedo)"
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1200px-Earth_Western_Hemisphere_transparent_background.png",
     "gallery": [
         {
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg",
-            "description": "The Earth seen from Apollo 17"
+            "image": "https://www-cdn.eumetsat.int/files/2022-03/earth-space.jpg",
+            "description": "Curvature of the earth"
         },
         {
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Earth_Eastern_Hemisphere.jpg/330px-Earth_Eastern_Hemisphere.jpg",
-            "description": "Earth's Eastern Hemisphere"
+            "image": "https://www.pbs.org/wnet/nature/files/2011/02/bisesh-gurung-DWZtqyxYU4s-unsplash-scaled-e1616436869634-610x343.jpg",
+            "description": "The Himalayan range, Highest point in the earth"
         },
         {
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Earth_Western_Hemisphere.jpg/330px-Earth_Western_Hemisphere.jpg",
-            "description": "Earth's Western Hemisphere"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Earth_Internal_Structure.svg/1200px-Earth_Internal_Structure.svg.png",
+            "description": "Earth's internal structure"
         },
         {
             "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg",
